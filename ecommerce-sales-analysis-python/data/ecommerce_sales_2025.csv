@@ -1,0 +1,801 @@
+order_id,order_date,customer_id,region,sales_channel,category,product,unit_price_czk,unit_cost_czk,quantity,discount_pct,payment_method,order_status
+ORD-0001,2025-01-05,CUST-0272,South Moravia,Direct,Fitness,Resistance Bands,428,140,1,0,Bank Transfer,Completed
+ORD-0002,2025-03-29,CUST-0311,South Moravia,Social Media,Electronics,Bluetooth Speaker,1290,690,2,15,Bank Transfer,Completed
+ORD-0003,2025-10-04,CUST-0295,Pilsen,Paid Search,Electronics,USB-C Hub,890,420,1,0,Card,Completed
+ORD-0004,2025-12-26,CUST-0173,Prague,Social Media,Home,Coffee Maker,2614,1360,1,0,Card,Completed
+ORD-0005,2025-03-06,CUST-0039,Prague,Paid Search,Home,Coffee Maker,2490,1360,1,0,Bank Transfer,Completed
+ORD-0006,2025-12-22,CUST-0055,Central Bohemia,Social Media,Home,Desk Lamp,940,390,1,0,Cash on Delivery,Completed
+ORD-0007,2025-04-05,CUST-0248,Moravia-Silesia,Social Media,Fitness,Gym Bag,890,340,3,0,Bank Transfer,Completed
+ORD-0008,2025-10-24,CUST-0119,Prague,Paid Search,Electronics,Smartwatch,3490,2150,1,0,Bank Transfer,Completed
+ORD-0009,2025-03-20,CUST-0119,Pilsen,Email,Electronics,Wireless Headphones,1890,1020,3,0,Card,Completed
+ORD-0010,2025-01-09,CUST-0093,Central Bohemia,Direct,Accessories,Laptop Stand,790,310,4,10,Cash on Delivery,Completed
+ORD-0011,2025-03-30,CUST-0269,Central Bohemia,Paid Search,Home,Coffee Maker,2614,1360,2,5,Bank Transfer,Completed
+ORD-0012,2025-10-15,CUST-0107,Moravia-Silesia,Social Media,Accessories,Phone Case,350,110,1,0,Bank Transfer,Completed
+ORD-0013,2025-06-16,CUST-0297,Moravia-Silesia,Paid Search,Accessories,Laptop Stand,790,310,2,15,Card,Cancelled
+ORD-0014,2025-03-08,CUST-0240,Prague,Direct,Home,Storage Box,410,140,1,0,Cash on Delivery,Completed
+ORD-0015,2025-02-12,CUST-0088,Other CZ,Social Media,Fitness,Yoga Mat,650,240,1,0,Cash on Delivery,Completed
+ORD-0016,2025-06-28,CUST-0186,South Moravia,Social Media,Fitness,Dumbbell Set,1990,1100,1,0,Card,Completed
+ORD-0017,2025-07-30,CUST-0029,Other CZ,Paid Search,Home,Water Bottle,490,170,1,10,Card,Completed
+ORD-0018,2025-10-21,CUST-0064,Prague,Direct,Home,Storage Box,390,140,3,15,Card,Completed
+ORD-0019,2025-03-22,CUST-0310,Moravia-Silesia,Email,Home,Water Bottle,490,170,1,10,Cash on Delivery,Completed
+ORD-0020,2025-06-28,CUST-0088,Prague,Organic Search,Home,Storage Box,370,140,2,0,Bank Transfer,Completed
+ORD-0021,2025-06-29,CUST-0132,Pilsen,Organic Search,Accessories,Phone Case,350,110,2,5,Card,Completed
+ORD-0022,2025-06-17,CUST-0069,Other CZ,Social Media,Fitness,Gym Bag,890,340,1,0,Bank Transfer,Completed
+ORD-0023,2025-08-27,CUST-0293,South Moravia,Direct,Home,Storage Box,390,140,1,0,Bank Transfer,Completed
+ORD-0024,2025-03-17,CUST-0050,Central Bohemia,Organic Search,Home,Storage Box,390,140,2,0,Cash on Delivery,Completed
+ORD-0025,2025-11-26,CUST-0186,Moravia-Silesia,Social Media,Electronics,USB-C Hub,846,420,2,0,Card,Completed
+ORD-0026,2025-11-26,CUST-0109,Pilsen,Organic Search,Electronics,Wireless Headphones,1890,1020,2,5,Cash on Delivery,Cancelled
+ORD-0027,2025-11-04,CUST-0069,Prague,Email,Fitness,Dumbbell Set,1990,1100,4,0,Bank Transfer,Completed
+ORD-0028,2025-02-15,CUST-0125,Central Bohemia,Paid Search,Fitness,Yoga Mat,682,240,2,5,Card,Completed
+ORD-0029,2025-01-05,CUST-0276,South Moravia,Organic Search,Accessories,Wireless Mouse,690,280,2,0,Bank Transfer,Completed
+ORD-0030,2025-06-04,CUST-0001,Prague,Direct,Electronics,Bluetooth Speaker,1290,690,1,0,Cash on Delivery,Completed
+ORD-0031,2025-09-18,CUST-0269,Prague,Email,Home,Desk Lamp,1040,390,3,0,Cash on Delivery,Completed
+ORD-0032,2025-04-24,CUST-0103,Central Bohemia,Social Media,Home,Storage Box,390,140,4,0,Card,Cancelled
+ORD-0033,2025-02-09,CUST-0058,Central Bohemia,Organic Search,Electronics,Smartwatch,3490,2150,2,5,Cash on Delivery,Completed
+ORD-0034,2025-09-24,CUST-0088,Pilsen,Direct,Home,Coffee Maker,2490,1360,1,5,Card,Completed
+ORD-0035,2025-02-25,CUST-0198,Prague,Direct,Home,Water Bottle,466,170,1,0,Card,Completed
+ORD-0036,2025-01-12,CUST-0228,South Moravia,Organic Search,Fitness,Dumbbell Set,2090,1100,4,0,Bank Transfer,Completed
+ORD-0037,2025-10-07,CUST-0007,Moravia-Silesia,Paid Search,Home,Storage Box,390,140,2,5,Card,Completed
+ORD-0038,2025-10-28,CUST-0121,Central Bohemia,Direct,Accessories,Wireless Mouse,690,280,1,5,Cash on Delivery,Completed
+ORD-0039,2025-01-17,CUST-0288,Prague,Paid Search,Accessories,Phone Case,350,110,2,0,Cash on Delivery,Completed
+ORD-0040,2025-06-26,CUST-0108,Prague,Email,Home,Desk Lamp,990,390,1,20,Card,Completed
+ORD-0041,2025-07-17,CUST-0022,Other CZ,Social Media,Electronics,USB-C Hub,890,420,1,5,Bank Transfer,Completed
+ORD-0042,2025-09-06,CUST-0042,Central Bohemia,Paid Search,Home,Water Bottle,490,170,1,0,Bank Transfer,Completed
+ORD-0043,2025-08-10,CUST-0088,Central Bohemia,Organic Search,Fitness,Resistance Bands,450,140,3,10,Card,Completed
+ORD-0044,2025-03-10,CUST-0141,South Moravia,Organic Search,Accessories,Phone Case,332,110,4,0,Cash on Delivery,Completed
+ORD-0045,2025-03-17,CUST-0312,Pilsen,Email,Home,Coffee Maker,2490,1360,1,0,Cash on Delivery,Completed
+ORD-0046,2025-05-13,CUST-0188,Pilsen,Email,Electronics,Smartwatch,3490,2150,2,10,Bank Transfer,Completed
+ORD-0047,2025-10-12,CUST-0317,South Moravia,Paid Search,Fitness,Gym Bag,934,340,5,0,Card,Completed
+ORD-0048,2025-01-26,CUST-0192,Central Bohemia,Organic Search,Home,Desk Lamp,1040,390,1,5,Card,Cancelled
+ORD-0049,2025-05-07,CUST-0231,Central Bohemia,Organic Search,Home,Coffee Maker,2490,1360,2,0,Card,Completed
+ORD-0050,2025-10-14,CUST-0219,South Moravia,Social Media,Electronics,Wireless Headphones,1890,1020,1,0,Bank Transfer,Completed
+ORD-0051,2025-01-07,CUST-0287,South Moravia,Email,Home,Desk Lamp,940,390,1,0,Bank Transfer,Completed
+ORD-0052,2025-01-07,CUST-0072,Prague,Email,Home,Coffee Maker,2490,1360,2,20,Bank Transfer,Completed
+ORD-0053,2025-07-29,CUST-0140,Prague,Email,Home,Desk Lamp,990,390,5,0,Cash on Delivery,Completed
+ORD-0054,2025-07-28,CUST-0013,Pilsen,Organic Search,Home,Coffee Maker,2490,1360,1,0,Card,Completed
+ORD-0055,2025-05-02,CUST-0050,Prague,Paid Search,Fitness,Yoga Mat,682,240,1,15,Card,Completed
+ORD-0056,2025-01-15,CUST-0109,Prague,Organic Search,Accessories,Wireless Mouse,690,280,2,0,Card,Completed
+ORD-0057,2025-08-08,CUST-0143,Central Bohemia,Direct,Electronics,Smartwatch,3490,2150,3,15,Cash on Delivery,Completed
+ORD-0058,2025-01-25,CUST-0148,Central Bohemia,Direct,Home,Storage Box,390,140,3,0,Card,Completed
+ORD-0059,2025-09-07,CUST-0169,South Moravia,Organic Search,Home,Storage Box,370,140,3,10,Card,Completed
+ORD-0060,2025-02-02,CUST-0254,Central Bohemia,Social Media,Electronics,USB-C Hub,890,420,1,5,Card,Completed
+ORD-0061,2025-01-03,CUST-0096,Prague,Paid Search,Electronics,Bluetooth Speaker,1290,690,2,0,Cash on Delivery,Completed
+ORD-0062,2025-06-11,CUST-0070,Moravia-Silesia,Social Media,Electronics,Bluetooth Speaker,1290,690,2,5,Cash on Delivery,Completed
+ORD-0063,2025-04-06,CUST-0259,Moravia-Silesia,Organic Search,Electronics,Wireless Headphones,1984,1020,5,0,Bank Transfer,Completed
+ORD-0064,2025-10-27,CUST-0151,South Moravia,Paid Search,Home,Storage Box,390,140,3,0,Bank Transfer,Returned
+ORD-0065,2025-02-02,CUST-0149,Prague,Direct,Fitness,Resistance Bands,450,140,2,0,Card,Completed
+ORD-0066,2025-03-21,CUST-0228,Pilsen,Direct,Accessories,Wireless Mouse,690,280,1,0,Card,Completed
+ORD-0067,2025-07-27,CUST-0008,South Moravia,Direct,Home,Water Bottle,490,170,2,0,Cash on Delivery,Completed
+ORD-0068,2025-09-05,CUST-0023,Moravia-Silesia,Paid Search,Fitness,Dumbbell Set,1990,1100,1,0,Card,Completed
+ORD-0069,2025-11-14,CUST-0210,Central Bohemia,Social Media,Accessories,Keyboard,1290,610,1,0,Cash on Delivery,Completed
+ORD-0070,2025-07-14,CUST-0311,Central Bohemia,Paid Search,Home,Desk Lamp,990,390,1,0,Bank Transfer,Completed
+ORD-0071,2025-01-23,CUST-0028,Central Bohemia,Organic Search,Electronics,USB-C Hub,846,420,1,0,Cash on Delivery,Completed
+ORD-0072,2025-01-01,CUST-0297,Prague,Paid Search,Accessories,Laptop Stand,750,310,2,15,Bank Transfer,Completed
+ORD-0073,2025-04-07,CUST-0311,South Moravia,Organic Search,Fitness,Dumbbell Set,1990,1100,1,0,Card,Completed
+ORD-0074,2025-11-13,CUST-0071,Prague,Social Media,Electronics,USB-C Hub,890,420,1,10,Bank Transfer,Completed
+ORD-0075,2025-12-23,CUST-0254,South Moravia,Email,Accessories,Wireless Mouse,690,280,1,0,Cash on Delivery,Completed
+ORD-0076,2025-11-15,CUST-0036,Pilsen,Organic Search,Home,Water Bottle,490,170,1,0,Card,Returned
+ORD-0077,2025-11-19,CUST-0224,Other CZ,Email,Electronics,Wireless Headphones,1890,1020,1,0,Cash on Delivery,Completed
+ORD-0078,2025-09-08,CUST-0172,Prague,Email,Electronics,USB-C Hub,890,420,1,10,Card,Completed
+ORD-0079,2025-06-18,CUST-0305,Moravia-Silesia,Organic Search,Electronics,Wireless Headphones,1890,1020,2,5,Bank Transfer,Completed
+ORD-0080,2025-02-10,CUST-0211,South Moravia,Organic Search,Electronics,USB-C Hub,890,420,1,10,Card,Completed
+ORD-0081,2025-06-03,CUST-0083,South Moravia,Organic Search,Electronics,Wireless Headphones,1890,1020,2,0,Card,Completed
+ORD-0082,2025-08-14,CUST-0077,South Moravia,Direct,Home,Storage Box,370,140,2,10,Bank Transfer,Completed
+ORD-0083,2025-09-07,CUST-0140,Prague,Direct,Fitness,Dumbbell Set,1990,1100,3,0,Cash on Delivery,Returned
+ORD-0084,2025-01-06,CUST-0258,Pilsen,Direct,Accessories,Wireless Mouse,656,280,2,5,Cash on Delivery,Completed
+ORD-0085,2025-07-09,CUST-0212,Other CZ,Organic Search,Electronics,Bluetooth Speaker,1226,690,1,10,Cash on Delivery,Completed
+ORD-0086,2025-06-21,CUST-0017,South Moravia,Email,Home,Coffee Maker,2490,1360,3,0,Cash on Delivery,Completed
+ORD-0087,2025-04-25,CUST-0243,Moravia-Silesia,Social Media,Home,Desk Lamp,940,390,1,15,Card,Completed
+ORD-0088,2025-05-03,CUST-0117,Pilsen,Email,Home,Water Bottle,490,170,1,0,Card,Completed
+ORD-0089,2025-04-28,CUST-0016,Pilsen,Social Media,Accessories,Laptop Stand,750,310,1,20,Card,Completed
+ORD-0090,2025-12-01,CUST-0168,South Moravia,Social Media,Electronics,Wireless Headphones,1890,1020,1,15,Bank Transfer,Completed
+ORD-0091,2025-11-12,CUST-0204,Central Bohemia,Paid Search,Fitness,Dumbbell Set,2090,1100,3,0,Card,Completed
+ORD-0092,2025-08-02,CUST-0172,South Moravia,Organic Search,Accessories,Wireless Mouse,690,280,1,5,Cash on Delivery,Completed
+ORD-0093,2025-07-09,CUST-0044,Prague,Email,Accessories,Keyboard,1290,610,1,10,Card,Completed
+ORD-0094,2025-05-31,CUST-0287,Central Bohemia,Email,Home,Coffee Maker,2490,1360,1,10,Cash on Delivery,Completed
+ORD-0095,2025-04-29,CUST-0240,South Moravia,Organic Search,Accessories,Keyboard,1354,610,1,0,Bank Transfer,Completed
+ORD-0096,2025-05-06,CUST-0248,Prague,Direct,Home,Storage Box,370,140,2,15,Cash on Delivery,Completed
+ORD-0097,2025-05-14,CUST-0275,Central Bohemia,Organic Search,Accessories,Keyboard,1290,610,5,10,Bank Transfer,Completed
+ORD-0098,2025-12-18,CUST-0256,South Moravia,Social Media,Accessories,Wireless Mouse,724,280,1,10,Card,Completed
+ORD-0099,2025-09-18,CUST-0255,Other CZ,Direct,Electronics,Smartwatch,3664,2150,1,5,Bank Transfer,Cancelled
+ORD-0100,2025-12-23,CUST-0297,Central Bohemia,Email,Electronics,Wireless Headphones,1984,1020,1,0,Cash on Delivery,Completed
+ORD-0101,2025-05-14,CUST-0132,Central Bohemia,Social Media,Home,Coffee Maker,2490,1360,3,10,Bank Transfer,Completed
+ORD-0102,2025-09-28,CUST-0096,Prague,Organic Search,Home,Storage Box,390,140,1,0,Card,Completed
+ORD-0103,2025-08-09,CUST-0144,South Moravia,Direct,Accessories,Laptop Stand,830,310,2,10,Card,Returned
+ORD-0104,2025-01-04,CUST-0223,Other CZ,Organic Search,Fitness,Gym Bag,846,340,1,0,Card,Completed
+ORD-0105,2025-09-08,CUST-0305,Central Bohemia,Organic Search,Accessories,Phone Case,368,110,1,0,Card,Cancelled
+ORD-0106,2025-08-16,CUST-0270,Moravia-Silesia,Paid Search,Electronics,USB-C Hub,890,420,1,0,Cash on Delivery,Completed
+ORD-0107,2025-08-26,CUST-0183,Pilsen,Email,Home,Storage Box,410,140,1,10,Cash on Delivery,Completed
+ORD-0108,2025-01-28,CUST-0170,Other CZ,Social Media,Accessories,Wireless Mouse,690,280,1,0,Card,Completed
+ORD-0109,2025-04-28,CUST-0246,South Moravia,Paid Search,Home,Storage Box,390,140,4,0,Bank Transfer,Completed
+ORD-0110,2025-04-19,CUST-0246,Central Bohemia,Email,Accessories,Laptop Stand,750,310,2,10,Card,Completed
+ORD-0111,2025-11-22,CUST-0018,South Moravia,Direct,Electronics,Bluetooth Speaker,1290,690,2,10,Card,Completed
+ORD-0112,2025-03-03,CUST-0109,Prague,Email,Fitness,Resistance Bands,450,140,2,0,Bank Transfer,Completed
+ORD-0113,2025-11-02,CUST-0028,South Moravia,Organic Search,Home,Coffee Maker,2614,1360,1,5,Bank Transfer,Completed
+ORD-0114,2025-08-23,CUST-0196,Central Bohemia,Direct,Home,Water Bottle,466,170,3,0,Bank Transfer,Completed
+ORD-0115,2025-05-25,CUST-0186,Moravia-Silesia,Organic Search,Home,Water Bottle,490,170,5,10,Bank Transfer,Completed
+ORD-0116,2025-07-20,CUST-0221,Prague,Organic Search,Electronics,USB-C Hub,890,420,1,10,Cash on Delivery,Completed
+ORD-0117,2025-11-07,CUST-0115,Central Bohemia,Paid Search,Home,Desk Lamp,990,390,3,5,Cash on Delivery,Completed
+ORD-0118,2025-04-16,CUST-0158,South Moravia,Email,Fitness,Resistance Bands,472,140,1,5,Cash on Delivery,Completed
+ORD-0119,2025-06-09,CUST-0178,Pilsen,Paid Search,Home,Storage Box,390,140,2,10,Bank Transfer,Completed
+ORD-0120,2025-01-10,CUST-0062,Central Bohemia,Social Media,Fitness,Yoga Mat,650,240,5,5,Cash on Delivery,Completed
+ORD-0121,2025-02-14,CUST-0248,Prague,Direct,Accessories,Keyboard,1290,610,1,0,Cash on Delivery,Completed
+ORD-0122,2025-11-20,CUST-0113,Moravia-Silesia,Email,Home,Storage Box,390,140,1,5,Card,Completed
+ORD-0123,2025-10-31,CUST-0001,Pilsen,Email,Fitness,Gym Bag,934,340,2,0,Cash on Delivery,Completed
+ORD-0124,2025-05-05,CUST-0320,Central Bohemia,Organic Search,Home,Water Bottle,514,170,1,10,Cash on Delivery,Completed
+ORD-0125,2025-06-13,CUST-0306,Pilsen,Social Media,Accessories,Wireless Mouse,724,280,2,5,Card,Completed
+ORD-0126,2025-11-02,CUST-0148,Prague,Organic Search,Electronics,Wireless Headphones,1984,1020,2,5,Cash on Delivery,Completed
+ORD-0127,2025-08-23,CUST-0184,Pilsen,Paid Search,Fitness,Dumbbell Set,1890,1100,4,0,Card,Cancelled
+ORD-0128,2025-11-02,CUST-0230,Pilsen,Email,Electronics,Wireless Headphones,1984,1020,1,0,Cash on Delivery,Completed
+ORD-0129,2025-09-18,CUST-0139,Pilsen,Social Media,Home,Coffee Maker,2490,1360,2,5,Card,Completed
+ORD-0130,2025-12-31,CUST-0111,Pilsen,Paid Search,Fitness,Resistance Bands,450,140,1,0,Bank Transfer,Completed
+ORD-0131,2025-08-16,CUST-0213,South Moravia,Paid Search,Fitness,Dumbbell Set,1990,1100,3,10,Card,Completed
+ORD-0132,2025-03-23,CUST-0122,Central Bohemia,Social Media,Electronics,Wireless Headphones,1984,1020,1,0,Card,Completed
+ORD-0133,2025-01-27,CUST-0171,Prague,Paid Search,Home,Coffee Maker,2490,1360,2,0,Card,Completed
+ORD-0134,2025-09-19,CUST-0220,Central Bohemia,Paid Search,Home,Water Bottle,490,170,3,5,Bank Transfer,Returned
+ORD-0135,2025-02-08,CUST-0134,Other CZ,Social Media,Fitness,Yoga Mat,650,240,1,5,Cash on Delivery,Completed
+ORD-0136,2025-10-05,CUST-0177,Moravia-Silesia,Direct,Home,Water Bottle,514,170,4,5,Cash on Delivery,Completed
+ORD-0137,2025-05-27,CUST-0122,Central Bohemia,Paid Search,Electronics,Wireless Headphones,1890,1020,3,20,Bank Transfer,Completed
+ORD-0138,2025-01-31,CUST-0235,Pilsen,Social Media,Home,Storage Box,390,140,1,0,Card,Cancelled
+ORD-0139,2025-09-26,CUST-0142,Central Bohemia,Social Media,Home,Water Bottle,490,170,1,0,Cash on Delivery,Completed
+ORD-0140,2025-06-16,CUST-0165,Pilsen,Organic Search,Home,Water Bottle,490,170,1,20,Bank Transfer,Completed
+ORD-0141,2025-11-28,CUST-0191,Moravia-Silesia,Paid Search,Home,Water Bottle,490,170,1,5,Bank Transfer,Completed
+ORD-0142,2025-05-21,CUST-0018,South Moravia,Organic Search,Electronics,Smartwatch,3490,2150,2,0,Card,Completed
+ORD-0143,2025-08-16,CUST-0122,Central Bohemia,Social Media,Accessories,Phone Case,350,110,2,0,Card,Completed
+ORD-0144,2025-10-25,CUST-0072,Other CZ,Email,Home,Storage Box,390,140,2,0,Bank Transfer,Completed
+ORD-0145,2025-10-06,CUST-0285,Moravia-Silesia,Paid Search,Fitness,Resistance Bands,450,140,1,20,Cash on Delivery,Completed
+ORD-0146,2025-12-27,CUST-0008,Prague,Organic Search,Home,Storage Box,390,140,4,5,Cash on Delivery,Completed
+ORD-0147,2025-03-14,CUST-0240,Other CZ,Email,Home,Storage Box,370,140,1,0,Bank Transfer,Returned
+ORD-0148,2025-02-01,CUST-0076,Central Bohemia,Organic Search,Home,Coffee Maker,2490,1360,1,5,Bank Transfer,Completed
+ORD-0149,2025-04-01,CUST-0006,Central Bohemia,Direct,Home,Desk Lamp,990,390,2,15,Bank Transfer,Completed
+ORD-0150,2025-03-01,CUST-0165,Prague,Email,Electronics,USB-C Hub,890,420,1,0,Card,Completed
+ORD-0151,2025-02-03,CUST-0184,South Moravia,Organic Search,Accessories,Keyboard,1354,610,3,5,Bank Transfer,Completed
+ORD-0152,2025-12-05,CUST-0232,Other CZ,Direct,Home,Coffee Maker,2490,1360,1,0,Card,Completed
+ORD-0153,2025-06-10,CUST-0144,Prague,Organic Search,Fitness,Dumbbell Set,1890,1100,2,5,Bank Transfer,Cancelled
+ORD-0154,2025-10-05,CUST-0119,Moravia-Silesia,Direct,Electronics,Bluetooth Speaker,1290,690,1,20,Card,Completed
+ORD-0155,2025-02-23,CUST-0127,Prague,Social Media,Home,Desk Lamp,990,390,1,0,Cash on Delivery,Completed
+ORD-0156,2025-10-29,CUST-0296,Central Bohemia,Email,Fitness,Yoga Mat,618,240,1,0,Card,Completed
+ORD-0157,2025-06-30,CUST-0084,Prague,Paid Search,Fitness,Yoga Mat,650,240,1,0,Cash on Delivery,Completed
+ORD-0158,2025-09-17,CUST-0075,Prague,Paid Search,Home,Water Bottle,490,170,3,0,Cash on Delivery,Completed
+ORD-0159,2025-11-14,CUST-0033,Prague,Email,Accessories,Keyboard,1290,610,1,5,Cash on Delivery,Completed
+ORD-0160,2025-04-13,CUST-0084,South Moravia,Organic Search,Fitness,Resistance Bands,472,140,3,5,Card,Completed
+ORD-0161,2025-06-07,CUST-0046,South Moravia,Paid Search,Fitness,Resistance Bands,428,140,1,0,Card,Completed
+ORD-0162,2025-12-29,CUST-0070,South Moravia,Social Media,Electronics,Smartwatch,3490,2150,1,10,Cash on Delivery,Completed
+ORD-0163,2025-02-05,CUST-0278,Central Bohemia,Direct,Accessories,Laptop Stand,790,310,2,5,Bank Transfer,Completed
+ORD-0164,2025-08-12,CUST-0253,Prague,Organic Search,Fitness,Gym Bag,846,340,4,5,Bank Transfer,Completed
+ORD-0165,2025-12-03,CUST-0289,Pilsen,Email,Fitness,Dumbbell Set,1990,1100,1,0,Card,Completed
+ORD-0166,2025-12-05,CUST-0265,Prague,Organic Search,Accessories,Phone Case,368,110,2,20,Bank Transfer,Completed
+ORD-0167,2025-06-05,CUST-0057,Pilsen,Organic Search,Fitness,Dumbbell Set,1990,1100,2,0,Card,Completed
+ORD-0168,2025-05-07,CUST-0257,South Moravia,Social Media,Accessories,Phone Case,350,110,3,0,Cash on Delivery,Completed
+ORD-0169,2025-11-27,CUST-0139,Prague,Direct,Accessories,Phone Case,350,110,1,0,Cash on Delivery,Cancelled
+ORD-0170,2025-01-07,CUST-0243,Pilsen,Direct,Electronics,Wireless Headphones,1796,1020,4,0,Card,Returned
+ORD-0171,2025-11-06,CUST-0319,Moravia-Silesia,Direct,Accessories,Wireless Mouse,690,280,2,0,Bank Transfer,Completed
+ORD-0172,2025-11-07,CUST-0102,South Moravia,Email,Home,Water Bottle,490,170,3,5,Cash on Delivery,Cancelled
+ORD-0173,2025-10-20,CUST-0052,Pilsen,Direct,Home,Water Bottle,490,170,3,5,Card,Completed
+ORD-0174,2025-09-29,CUST-0098,Moravia-Silesia,Social Media,Home,Coffee Maker,2490,1360,2,0,Card,Completed
+ORD-0175,2025-10-27,CUST-0235,Prague,Organic Search,Fitness,Gym Bag,890,340,1,15,Card,Completed
+ORD-0176,2025-05-06,CUST-0069,Central Bohemia,Social Media,Electronics,Wireless Headphones,1796,1020,2,0,Card,Completed
+ORD-0177,2025-07-11,CUST-0013,Other CZ,Social Media,Electronics,USB-C Hub,890,420,3,0,Bank Transfer,Completed
+ORD-0178,2025-01-12,CUST-0200,South Moravia,Organic Search,Fitness,Dumbbell Set,1990,1100,4,15,Cash on Delivery,Cancelled
+ORD-0179,2025-02-18,CUST-0251,Prague,Social Media,Home,Storage Box,370,140,3,0,Card,Completed
+ORD-0180,2025-03-30,CUST-0186,Central Bohemia,Social Media,Home,Desk Lamp,940,390,1,0,Cash on Delivery,Cancelled
+ORD-0181,2025-12-10,CUST-0282,Pilsen,Organic Search,Accessories,Phone Case,332,110,1,10,Cash on Delivery,Completed
+ORD-0182,2025-09-29,CUST-0243,Prague,Email,Fitness,Gym Bag,890,340,3,0,Card,Completed
+ORD-0183,2025-12-16,CUST-0150,Moravia-Silesia,Paid Search,Electronics,Bluetooth Speaker,1290,690,1,5,Cash on Delivery,Completed
+ORD-0184,2025-01-22,CUST-0096,South Moravia,Paid Search,Home,Water Bottle,490,170,1,15,Bank Transfer,Cancelled
+ORD-0185,2025-03-01,CUST-0101,Central Bohemia,Paid Search,Accessories,Keyboard,1290,610,5,10,Cash on Delivery,Completed
+ORD-0186,2025-02-08,CUST-0053,Moravia-Silesia,Organic Search,Home,Coffee Maker,2490,1360,1,0,Bank Transfer,Completed
+ORD-0187,2025-05-20,CUST-0076,Pilsen,Organic Search,Home,Storage Box,390,140,1,0,Bank Transfer,Completed
+ORD-0188,2025-01-23,CUST-0012,Prague,Organic Search,Home,Desk Lamp,990,390,3,15,Bank Transfer,Completed
+ORD-0189,2025-03-22,CUST-0097,Prague,Paid Search,Home,Water Bottle,490,170,2,5,Card,Completed
+ORD-0190,2025-11-13,CUST-0034,Moravia-Silesia,Social Media,Accessories,Laptop Stand,830,310,1,0,Bank Transfer,Completed
+ORD-0191,2025-07-26,CUST-0220,Moravia-Silesia,Organic Search,Electronics,Wireless Headphones,1984,1020,1,10,Bank Transfer,Completed
+ORD-0192,2025-04-04,CUST-0091,Prague,Email,Home,Coffee Maker,2490,1360,2,0,Bank Transfer,Completed
+ORD-0193,2025-07-09,CUST-0216,Prague,Organic Search,Electronics,Wireless Headphones,1890,1020,2,0,Cash on Delivery,Completed
+ORD-0194,2025-07-07,CUST-0112,Prague,Paid Search,Home,Coffee Maker,2366,1360,1,5,Card,Completed
+ORD-0195,2025-05-06,CUST-0286,Prague,Social Media,Electronics,Bluetooth Speaker,1290,690,1,0,Bank Transfer,Completed
+ORD-0196,2025-11-24,CUST-0116,Pilsen,Email,Electronics,Smartwatch,3490,2150,3,5,Bank Transfer,Completed
+ORD-0197,2025-05-07,CUST-0084,Other CZ,Paid Search,Electronics,USB-C Hub,890,420,5,15,Bank Transfer,Cancelled
+ORD-0198,2025-05-08,CUST-0050,South Moravia,Organic Search,Accessories,Laptop Stand,830,310,3,10,Bank Transfer,Completed
+ORD-0199,2025-10-21,CUST-0080,Moravia-Silesia,Direct,Electronics,Smartwatch,3490,2150,2,0,Bank Transfer,Completed
+ORD-0200,2025-02-14,CUST-0036,Prague,Paid Search,Electronics,Smartwatch,3490,2150,1,0,Card,Completed
+ORD-0201,2025-05-19,CUST-0313,Prague,Social Media,Fitness,Dumbbell Set,1990,1100,1,0,Bank Transfer,Completed
+ORD-0202,2025-04-06,CUST-0106,Central Bohemia,Social Media,Fitness,Dumbbell Set,1990,1100,2,5,Bank Transfer,Completed
+ORD-0203,2025-03-30,CUST-0110,Prague,Paid Search,Home,Storage Box,390,140,2,0,Cash on Delivery,Completed
+ORD-0204,2025-11-13,CUST-0229,Pilsen,Organic Search,Home,Coffee Maker,2366,1360,4,15,Bank Transfer,Completed
+ORD-0205,2025-10-23,CUST-0099,Pilsen,Direct,Fitness,Yoga Mat,650,240,3,0,Bank Transfer,Completed
+ORD-0206,2025-04-07,CUST-0004,Central Bohemia,Paid Search,Fitness,Resistance Bands,450,140,1,0,Bank Transfer,Completed
+ORD-0207,2025-09-01,CUST-0008,Prague,Organic Search,Accessories,Wireless Mouse,690,280,1,0,Card,Completed
+ORD-0208,2025-12-07,CUST-0197,Pilsen,Paid Search,Accessories,Phone Case,368,110,2,0,Bank Transfer,Completed
+ORD-0209,2025-05-28,CUST-0115,Central Bohemia,Paid Search,Electronics,Wireless Headphones,1890,1020,3,0,Bank Transfer,Completed
+ORD-0210,2025-08-16,CUST-0169,Prague,Direct,Fitness,Resistance Bands,450,140,4,5,Bank Transfer,Completed
+ORD-0211,2025-07-02,CUST-0270,Prague,Direct,Accessories,Wireless Mouse,690,280,5,5,Cash on Delivery,Completed
+ORD-0212,2025-06-05,CUST-0005,South Moravia,Organic Search,Home,Coffee Maker,2614,1360,3,0,Bank Transfer,Completed
+ORD-0213,2025-12-31,CUST-0307,South Moravia,Paid Search,Fitness,Yoga Mat,650,240,1,0,Bank Transfer,Returned
+ORD-0214,2025-01-31,CUST-0267,South Moravia,Email,Home,Desk Lamp,990,390,1,0,Cash on Delivery,Completed
+ORD-0215,2025-03-04,CUST-0019,Central Bohemia,Paid Search,Home,Coffee Maker,2614,1360,1,0,Cash on Delivery,Completed
+ORD-0216,2025-11-19,CUST-0191,Other CZ,Direct,Fitness,Gym Bag,890,340,1,5,Card,Completed
+ORD-0217,2025-03-26,CUST-0095,Pilsen,Paid Search,Electronics,Smartwatch,3490,2150,2,0,Cash on Delivery,Completed
+ORD-0218,2025-12-10,CUST-0319,Central Bohemia,Social Media,Home,Coffee Maker,2490,1360,1,0,Bank Transfer,Completed
+ORD-0219,2025-02-08,CUST-0167,Other CZ,Paid Search,Electronics,USB-C Hub,890,420,1,0,Card,Completed
+ORD-0220,2025-08-10,CUST-0049,Prague,Paid Search,Fitness,Yoga Mat,650,240,4,5,Card,Completed
+ORD-0221,2025-06-11,CUST-0206,Central Bohemia,Social Media,Fitness,Dumbbell Set,2090,1100,4,10,Card,Completed
+ORD-0222,2025-04-16,CUST-0116,Other CZ,Paid Search,Home,Storage Box,370,140,1,0,Card,Completed
+ORD-0223,2025-05-02,CUST-0262,Central Bohemia,Social Media,Fitness,Gym Bag,890,340,1,0,Cash on Delivery,Completed
+ORD-0224,2025-04-03,CUST-0251,South Moravia,Paid Search,Electronics,Smartwatch,3316,2150,3,10,Bank Transfer,Completed
+ORD-0225,2025-10-25,CUST-0254,Central Bohemia,Social Media,Accessories,Laptop Stand,790,310,3,0,Card,Completed
+ORD-0226,2025-08-20,CUST-0209,Moravia-Silesia,Organic Search,Home,Storage Box,390,140,2,10,Bank Transfer,Completed
+ORD-0227,2025-05-15,CUST-0234,Pilsen,Paid Search,Home,Desk Lamp,990,390,2,0,Card,Completed
+ORD-0228,2025-04-22,CUST-0230,Moravia-Silesia,Direct,Home,Coffee Maker,2490,1360,2,15,Card,Completed
+ORD-0229,2025-11-02,CUST-0082,Pilsen,Social Media,Accessories,Wireless Mouse,724,280,1,0,Bank Transfer,Completed
+ORD-0230,2025-02-13,CUST-0075,Moravia-Silesia,Social Media,Home,Desk Lamp,940,390,2,15,Bank Transfer,Completed
+ORD-0231,2025-01-29,CUST-0089,Moravia-Silesia,Direct,Fitness,Yoga Mat,650,240,2,10,Bank Transfer,Cancelled
+ORD-0232,2025-05-12,CUST-0242,Prague,Paid Search,Electronics,Wireless Headphones,1890,1020,1,15,Bank Transfer,Cancelled
+ORD-0233,2025-11-21,CUST-0161,Moravia-Silesia,Paid Search,Fitness,Dumbbell Set,1990,1100,1,0,Cash on Delivery,Completed
+ORD-0234,2025-08-24,CUST-0238,Prague,Organic Search,Electronics,Bluetooth Speaker,1290,690,2,0,Bank Transfer,Completed
+ORD-0235,2025-12-15,CUST-0041,Central Bohemia,Direct,Home,Desk Lamp,940,390,2,5,Cash on Delivery,Completed
+ORD-0236,2025-10-15,CUST-0059,Prague,Social Media,Electronics,Wireless Headphones,1890,1020,1,0,Bank Transfer,Completed
+ORD-0237,2025-05-23,CUST-0173,Moravia-Silesia,Paid Search,Accessories,Laptop Stand,750,310,1,0,Cash on Delivery,Completed
+ORD-0238,2025-09-13,CUST-0179,Central Bohemia,Social Media,Electronics,Smartwatch,3490,2150,1,0,Card,Completed
+ORD-0239,2025-12-16,CUST-0063,Moravia-Silesia,Paid Search,Fitness,Dumbbell Set,1990,1100,1,0,Cash on Delivery,Completed
+ORD-0240,2025-11-23,CUST-0036,Central Bohemia,Direct,Fitness,Yoga Mat,650,240,1,5,Bank Transfer,Returned
+ORD-0241,2025-08-30,CUST-0070,Moravia-Silesia,Paid Search,Fitness,Resistance Bands,428,140,1,0,Card,Completed
+ORD-0242,2025-07-24,CUST-0290,Prague,Organic Search,Accessories,Keyboard,1290,610,2,0,Cash on Delivery,Completed
+ORD-0243,2025-06-12,CUST-0285,Prague,Organic Search,Fitness,Dumbbell Set,1990,1100,1,0,Card,Completed
+ORD-0244,2025-11-17,CUST-0162,Prague,Organic Search,Home,Water Bottle,490,170,2,5,Cash on Delivery,Completed
+ORD-0245,2025-07-26,CUST-0178,Prague,Organic Search,Electronics,Bluetooth Speaker,1290,690,1,0,Card,Completed
+ORD-0246,2025-05-04,CUST-0073,Prague,Social Media,Electronics,USB-C Hub,890,420,3,0,Cash on Delivery,Completed
+ORD-0247,2025-06-29,CUST-0080,Moravia-Silesia,Direct,Electronics,Smartwatch,3490,2150,1,0,Cash on Delivery,Completed
+ORD-0248,2025-11-12,CUST-0314,Central Bohemia,Paid Search,Electronics,USB-C Hub,890,420,1,0,Bank Transfer,Returned
+ORD-0249,2025-10-26,CUST-0252,South Moravia,Social Media,Electronics,Smartwatch,3664,2150,1,10,Bank Transfer,Completed
+ORD-0250,2025-01-17,CUST-0008,South Moravia,Social Media,Home,Storage Box,370,140,1,0,Cash on Delivery,Completed
+ORD-0251,2025-03-27,CUST-0254,South Moravia,Organic Search,Home,Desk Lamp,940,390,1,15,Card,Completed
+ORD-0252,2025-03-21,CUST-0288,Moravia-Silesia,Organic Search,Accessories,Wireless Mouse,690,280,3,20,Bank Transfer,Completed
+ORD-0253,2025-11-07,CUST-0177,Pilsen,Email,Home,Storage Box,410,140,2,0,Cash on Delivery,Completed
+ORD-0254,2025-11-29,CUST-0151,Moravia-Silesia,Social Media,Fitness,Yoga Mat,650,240,3,10,Cash on Delivery,Completed
+ORD-0255,2025-12-23,CUST-0018,Central Bohemia,Direct,Electronics,USB-C Hub,890,420,1,0,Bank Transfer,Completed
+ORD-0256,2025-01-05,CUST-0160,Prague,Organic Search,Fitness,Yoga Mat,650,240,1,0,Cash on Delivery,Completed
+ORD-0257,2025-06-07,CUST-0153,Other CZ,Email,Home,Storage Box,390,140,1,10,Card,Completed
+ORD-0258,2025-09-08,CUST-0120,Central Bohemia,Organic Search,Accessories,Laptop Stand,830,310,4,0,Bank Transfer,Completed
+ORD-0259,2025-12-11,CUST-0056,South Moravia,Paid Search,Fitness,Dumbbell Set,1990,1100,1,15,Bank Transfer,Completed
+ORD-0260,2025-05-25,CUST-0242,Prague,Direct,Home,Desk Lamp,990,390,2,0,Bank Transfer,Completed
+ORD-0261,2025-12-24,CUST-0105,Prague,Direct,Accessories,Wireless Mouse,724,280,2,5,Bank Transfer,Completed
+ORD-0262,2025-05-20,CUST-0054,South Moravia,Organic Search,Fitness,Dumbbell Set,1990,1100,1,0,Cash on Delivery,Returned
+ORD-0263,2025-04-11,CUST-0136,Central Bohemia,Social Media,Electronics,Wireless Headphones,1890,1020,1,0,Bank Transfer,Completed
+ORD-0264,2025-05-29,CUST-0135,Other CZ,Social Media,Home,Coffee Maker,2490,1360,1,0,Card,Completed
+ORD-0265,2025-03-31,CUST-0094,South Moravia,Paid Search,Electronics,USB-C Hub,890,420,1,0,Bank Transfer,Completed
+ORD-0266,2025-09-04,CUST-0088,Central Bohemia,Organic Search,Fitness,Yoga Mat,618,240,2,5,Cash on Delivery,Completed
+ORD-0267,2025-05-07,CUST-0211,Prague,Organic Search,Accessories,Keyboard,1290,610,2,5,Cash on Delivery,Completed
+ORD-0268,2025-02-18,CUST-0097,Prague,Organic Search,Home,Storage Box,390,140,5,5,Bank Transfer,Completed
+ORD-0269,2025-05-24,CUST-0211,Pilsen,Organic Search,Fitness,Yoga Mat,650,240,3,10,Bank Transfer,Completed
+ORD-0270,2025-05-04,CUST-0142,Central Bohemia,Organic Search,Fitness,Gym Bag,890,340,1,0,Bank Transfer,Completed
+ORD-0271,2025-06-21,CUST-0033,Central Bohemia,Organic Search,Fitness,Yoga Mat,618,240,1,5,Cash on Delivery,Completed
+ORD-0272,2025-12-21,CUST-0246,Prague,Paid Search,Accessories,Laptop Stand,790,310,1,10,Card,Completed
+ORD-0273,2025-01-04,CUST-0039,Pilsen,Organic Search,Electronics,Wireless Headphones,1890,1020,1,10,Cash on Delivery,Completed
+ORD-0274,2025-06-25,CUST-0216,South Moravia,Organic Search,Fitness,Dumbbell Set,1990,1100,2,0,Cash on Delivery,Completed
+ORD-0275,2025-03-28,CUST-0317,Other CZ,Direct,Home,Water Bottle,490,170,2,10,Bank Transfer,Completed
+ORD-0276,2025-07-27,CUST-0204,Other CZ,Direct,Accessories,Laptop Stand,790,310,1,5,Bank Transfer,Completed
+ORD-0277,2025-04-30,CUST-0050,Prague,Social Media,Electronics,Wireless Headphones,1890,1020,1,0,Card,Completed
+ORD-0278,2025-04-03,CUST-0104,South Moravia,Paid Search,Fitness,Resistance Bands,450,140,4,10,Bank Transfer,Completed
+ORD-0279,2025-09-12,CUST-0156,Prague,Social Media,Electronics,Bluetooth Speaker,1290,690,1,10,Cash on Delivery,Completed
+ORD-0280,2025-08-16,CUST-0144,Prague,Social Media,Fitness,Yoga Mat,650,240,1,5,Card,Completed
+ORD-0281,2025-01-27,CUST-0085,Moravia-Silesia,Email,Fitness,Gym Bag,890,340,4,10,Cash on Delivery,Completed
+ORD-0282,2025-11-29,CUST-0179,Prague,Email,Electronics,Wireless Headphones,1890,1020,2,10,Card,Completed
+ORD-0283,2025-08-23,CUST-0128,South Moravia,Organic Search,Accessories,Phone Case,368,110,2,15,Cash on Delivery,Completed
+ORD-0284,2025-10-20,CUST-0187,Prague,Social Media,Home,Storage Box,370,140,3,0,Bank Transfer,Completed
+ORD-0285,2025-09-03,CUST-0238,Pilsen,Organic Search,Home,Desk Lamp,990,390,4,0,Cash on Delivery,Completed
+ORD-0286,2025-12-11,CUST-0059,Moravia-Silesia,Paid Search,Electronics,Bluetooth Speaker,1290,690,1,0,Card,Cancelled
+ORD-0287,2025-10-20,CUST-0071,South Moravia,Direct,Fitness,Yoga Mat,650,240,1,5,Cash on Delivery,Completed
+ORD-0288,2025-03-15,CUST-0040,Prague,Direct,Accessories,Keyboard,1290,610,1,0,Cash on Delivery,Completed
+ORD-0289,2025-11-06,CUST-0305,Central Bohemia,Organic Search,Fitness,Gym Bag,890,340,3,20,Card,Completed
+ORD-0290,2025-03-02,CUST-0012,Prague,Paid Search,Electronics,Wireless Headphones,1890,1020,1,0,Bank Transfer,Completed
+ORD-0291,2025-10-29,CUST-0089,Other CZ,Social Media,Fitness,Resistance Bands,450,140,1,10,Card,Completed
+ORD-0292,2025-06-09,CUST-0032,South Moravia,Direct,Home,Coffee Maker,2366,1360,1,0,Cash on Delivery,Completed
+ORD-0293,2025-01-30,CUST-0075,South Moravia,Social Media,Electronics,Wireless Headphones,1890,1020,1,0,Bank Transfer,Completed
+ORD-0294,2025-11-02,CUST-0020,Central Bohemia,Direct,Home,Coffee Maker,2490,1360,1,5,Bank Transfer,Completed
+ORD-0295,2025-01-29,CUST-0290,Moravia-Silesia,Paid Search,Electronics,Smartwatch,3316,2150,1,15,Card,Completed
+ORD-0296,2025-07-25,CUST-0318,Prague,Social Media,Electronics,USB-C Hub,890,420,2,0,Bank Transfer,Completed
+ORD-0297,2025-05-31,CUST-0313,Prague,Organic Search,Electronics,USB-C Hub,846,420,1,0,Cash on Delivery,Completed
+ORD-0298,2025-08-29,CUST-0305,Pilsen,Organic Search,Fitness,Gym Bag,934,340,1,0,Card,Completed
+ORD-0299,2025-07-23,CUST-0232,Pilsen,Social Media,Electronics,Wireless Headphones,1890,1020,3,10,Cash on Delivery,Completed
+ORD-0300,2025-07-19,CUST-0144,Central Bohemia,Direct,Electronics,Wireless Headphones,1890,1020,2,0,Card,Completed
+ORD-0301,2025-05-20,CUST-0225,Other CZ,Social Media,Accessories,Laptop Stand,750,310,3,10,Cash on Delivery,Completed
+ORD-0302,2025-08-07,CUST-0208,Moravia-Silesia,Direct,Accessories,Keyboard,1226,610,1,0,Cash on Delivery,Completed
+ORD-0303,2025-07-04,CUST-0158,Central Bohemia,Organic Search,Fitness,Resistance Bands,450,140,2,0,Bank Transfer,Completed
+ORD-0304,2025-11-24,CUST-0306,Prague,Organic Search,Electronics,Bluetooth Speaker,1290,690,1,5,Card,Completed
+ORD-0305,2025-01-04,CUST-0152,Moravia-Silesia,Email,Electronics,Bluetooth Speaker,1290,690,1,10,Cash on Delivery,Completed
+ORD-0306,2025-06-21,CUST-0227,Central Bohemia,Organic Search,Electronics,Bluetooth Speaker,1226,690,1,0,Bank Transfer,Completed
+ORD-0307,2025-08-08,CUST-0037,Pilsen,Email,Home,Water Bottle,466,170,2,0,Card,Completed
+ORD-0308,2025-10-17,CUST-0311,Pilsen,Social Media,Fitness,Dumbbell Set,2090,1100,1,0,Bank Transfer,Completed
+ORD-0309,2025-11-05,CUST-0271,Prague,Social Media,Fitness,Resistance Bands,450,140,2,5,Card,Completed
+ORD-0310,2025-05-30,CUST-0320,Central Bohemia,Organic Search,Electronics,Bluetooth Speaker,1354,690,1,5,Cash on Delivery,Completed
+ORD-0311,2025-02-13,CUST-0311,Prague,Paid Search,Electronics,Smartwatch,3490,2150,1,0,Bank Transfer,Completed
+ORD-0312,2025-08-01,CUST-0258,Pilsen,Organic Search,Accessories,Keyboard,1290,610,2,0,Card,Completed
+ORD-0313,2025-02-19,CUST-0103,South Moravia,Organic Search,Home,Desk Lamp,990,390,3,15,Cash on Delivery,Completed
+ORD-0314,2025-09-17,CUST-0014,Prague,Direct,Accessories,Laptop Stand,790,310,1,0,Bank Transfer,Completed
+ORD-0315,2025-08-31,CUST-0114,South Moravia,Social Media,Accessories,Phone Case,350,110,1,0,Bank Transfer,Completed
+ORD-0316,2025-11-15,CUST-0186,Other CZ,Organic Search,Electronics,Wireless Headphones,1984,1020,1,0,Cash on Delivery,Completed
+ORD-0317,2025-08-18,CUST-0209,South Moravia,Paid Search,Accessories,Keyboard,1226,610,1,0,Card,Completed
+ORD-0318,2025-07-05,CUST-0240,Prague,Paid Search,Fitness,Resistance Bands,450,140,1,10,Card,Completed
+ORD-0319,2025-09-02,CUST-0183,Prague,Paid Search,Accessories,Laptop Stand,790,310,1,10,Bank Transfer,Completed
+ORD-0320,2025-05-13,CUST-0178,Prague,Organic Search,Accessories,Keyboard,1290,610,1,10,Card,Completed
+ORD-0321,2025-07-09,CUST-0016,Prague,Organic Search,Accessories,Laptop Stand,790,310,1,15,Bank Transfer,Completed
+ORD-0322,2025-11-17,CUST-0255,South Moravia,Direct,Electronics,Smartwatch,3316,2150,2,10,Bank Transfer,Completed
+ORD-0323,2025-02-23,CUST-0183,Prague,Organic Search,Fitness,Yoga Mat,682,240,4,15,Bank Transfer,Completed
+ORD-0324,2025-08-02,CUST-0085,Moravia-Silesia,Direct,Accessories,Phone Case,350,110,2,0,Bank Transfer,Completed
+ORD-0325,2025-06-21,CUST-0305,South Moravia,Social Media,Fitness,Gym Bag,890,340,2,5,Bank Transfer,Completed
+ORD-0326,2025-04-12,CUST-0130,Central Bohemia,Email,Accessories,Keyboard,1290,610,1,0,Bank Transfer,Completed
+ORD-0327,2025-04-21,CUST-0018,Moravia-Silesia,Paid Search,Electronics,USB-C Hub,934,420,1,0,Card,Completed
+ORD-0328,2025-01-09,CUST-0189,Prague,Email,Fitness,Resistance Bands,450,140,1,5,Bank Transfer,Completed
+ORD-0329,2025-06-05,CUST-0177,Moravia-Silesia,Organic Search,Fitness,Dumbbell Set,1990,1100,1,0,Bank Transfer,Completed
+ORD-0330,2025-06-18,CUST-0295,South Moravia,Social Media,Electronics,USB-C Hub,890,420,2,0,Bank Transfer,Completed
+ORD-0331,2025-04-25,CUST-0078,Prague,Organic Search,Electronics,Bluetooth Speaker,1290,690,2,5,Cash on Delivery,Completed
+ORD-0332,2025-09-29,CUST-0201,South Moravia,Paid Search,Accessories,Keyboard,1226,610,1,0,Bank Transfer,Returned
+ORD-0333,2025-11-20,CUST-0292,Moravia-Silesia,Paid Search,Fitness,Gym Bag,890,340,1,0,Cash on Delivery,Completed
+ORD-0334,2025-12-04,CUST-0216,Moravia-Silesia,Direct,Electronics,Smartwatch,3490,2150,3,0,Card,Completed
+ORD-0335,2025-10-08,CUST-0024,Pilsen,Paid Search,Electronics,Wireless Headphones,1796,1020,1,20,Cash on Delivery,Completed
+ORD-0336,2025-01-02,CUST-0194,Prague,Social Media,Fitness,Dumbbell Set,1990,1100,2,5,Card,Completed
+ORD-0337,2025-10-26,CUST-0092,Central Bohemia,Organic Search,Fitness,Resistance Bands,428,140,1,0,Bank Transfer,Completed
+ORD-0338,2025-04-29,CUST-0099,South Moravia,Paid Search,Accessories,Keyboard,1290,610,2,5,Cash on Delivery,Completed
+ORD-0339,2025-10-21,CUST-0173,Pilsen,Social Media,Electronics,Smartwatch,3316,2150,1,0,Card,Completed
+ORD-0340,2025-10-25,CUST-0170,South Moravia,Direct,Accessories,Keyboard,1290,610,1,10,Bank Transfer,Completed
+ORD-0341,2025-04-07,CUST-0102,Central Bohemia,Email,Accessories,Laptop Stand,750,310,1,0,Cash on Delivery,Completed
+ORD-0342,2025-12-26,CUST-0006,Pilsen,Organic Search,Accessories,Keyboard,1290,610,2,0,Bank Transfer,Completed
+ORD-0343,2025-02-03,CUST-0026,South Moravia,Organic Search,Fitness,Gym Bag,890,340,2,20,Card,Returned
+ORD-0344,2025-07-10,CUST-0001,South Moravia,Organic Search,Fitness,Yoga Mat,650,240,1,0,Card,Completed
+ORD-0345,2025-07-31,CUST-0283,Central Bohemia,Paid Search,Electronics,Wireless Headphones,1890,1020,5,0,Card,Completed
+ORD-0346,2025-04-03,CUST-0109,Moravia-Silesia,Email,Accessories,Wireless Mouse,724,280,2,0,Card,Completed
+ORD-0347,2025-10-28,CUST-0168,Other CZ,Organic Search,Accessories,Laptop Stand,790,310,4,20,Cash on Delivery,Completed
+ORD-0348,2025-04-26,CUST-0006,South Moravia,Organic Search,Fitness,Gym Bag,890,340,1,0,Bank Transfer,Completed
+ORD-0349,2025-09-26,CUST-0245,Other CZ,Paid Search,Accessories,Wireless Mouse,656,280,1,15,Card,Completed
+ORD-0350,2025-01-26,CUST-0246,South Moravia,Organic Search,Home,Storage Box,390,140,1,5,Card,Completed
+ORD-0351,2025-05-18,CUST-0133,Prague,Organic Search,Accessories,Phone Case,350,110,2,0,Card,Completed
+ORD-0352,2025-10-20,CUST-0031,Central Bohemia,Organic Search,Fitness,Yoga Mat,682,240,1,15,Cash on Delivery,Returned
+ORD-0353,2025-08-24,CUST-0061,Central Bohemia,Social Media,Home,Storage Box,390,140,2,0,Bank Transfer,Completed
+ORD-0354,2025-05-21,CUST-0053,Moravia-Silesia,Social Media,Home,Storage Box,370,140,1,0,Cash on Delivery,Completed
+ORD-0355,2025-11-13,CUST-0077,South Moravia,Direct,Home,Coffee Maker,2366,1360,2,0,Card,Completed
+ORD-0356,2025-05-04,CUST-0194,Prague,Email,Home,Coffee Maker,2490,1360,1,0,Card,Completed
+ORD-0357,2025-02-07,CUST-0103,Moravia-Silesia,Social Media,Accessories,Keyboard,1354,610,2,10,Cash on Delivery,Completed
+ORD-0358,2025-02-26,CUST-0315,Pilsen,Direct,Accessories,Phone Case,350,110,4,0,Bank Transfer,Completed
+ORD-0359,2025-06-23,CUST-0249,Central Bohemia,Social Media,Home,Coffee Maker,2366,1360,2,10,Card,Completed
+ORD-0360,2025-03-06,CUST-0247,Moravia-Silesia,Social Media,Fitness,Yoga Mat,650,240,2,0,Cash on Delivery,Completed
+ORD-0361,2025-07-28,CUST-0034,Central Bohemia,Direct,Electronics,USB-C Hub,890,420,1,20,Cash on Delivery,Completed
+ORD-0362,2025-04-26,CUST-0089,Central Bohemia,Paid Search,Fitness,Yoga Mat,682,240,3,5,Cash on Delivery,Completed
+ORD-0363,2025-07-06,CUST-0263,Moravia-Silesia,Direct,Home,Coffee Maker,2490,1360,2,15,Card,Completed
+ORD-0364,2025-01-28,CUST-0256,Moravia-Silesia,Social Media,Accessories,Keyboard,1354,610,2,0,Cash on Delivery,Completed
+ORD-0365,2025-03-20,CUST-0178,Prague,Direct,Electronics,USB-C Hub,934,420,2,0,Card,Completed
+ORD-0366,2025-02-27,CUST-0012,Pilsen,Organic Search,Fitness,Resistance Bands,450,140,1,20,Cash on Delivery,Completed
+ORD-0367,2025-10-25,CUST-0248,Central Bohemia,Direct,Home,Desk Lamp,990,390,4,0,Cash on Delivery,Cancelled
+ORD-0368,2025-04-21,CUST-0066,Moravia-Silesia,Paid Search,Fitness,Gym Bag,890,340,2,0,Bank Transfer,Completed
+ORD-0369,2025-01-24,CUST-0121,Central Bohemia,Organic Search,Electronics,Smartwatch,3490,2150,1,0,Bank Transfer,Completed
+ORD-0370,2025-12-31,CUST-0281,Central Bohemia,Organic Search,Electronics,Bluetooth Speaker,1226,690,5,10,Card,Completed
+ORD-0371,2025-06-10,CUST-0242,Pilsen,Organic Search,Home,Storage Box,410,140,2,0,Card,Completed
+ORD-0372,2025-11-28,CUST-0132,South Moravia,Paid Search,Electronics,Wireless Headphones,1890,1020,1,0,Card,Completed
+ORD-0373,2025-02-15,CUST-0092,Central Bohemia,Organic Search,Electronics,Bluetooth Speaker,1290,690,4,5,Bank Transfer,Completed
+ORD-0374,2025-06-24,CUST-0302,South Moravia,Direct,Electronics,Smartwatch,3490,2150,2,0,Cash on Delivery,Completed
+ORD-0375,2025-03-06,CUST-0039,Prague,Paid Search,Home,Storage Box,390,140,2,0,Cash on Delivery,Completed
+ORD-0376,2025-06-24,CUST-0279,South Moravia,Organic Search,Electronics,Wireless Headphones,1890,1020,3,0,Bank Transfer,Completed
+ORD-0377,2025-08-08,CUST-0305,Central Bohemia,Organic Search,Home,Coffee Maker,2490,1360,3,10,Bank Transfer,Completed
+ORD-0378,2025-03-05,CUST-0098,Moravia-Silesia,Social Media,Fitness,Gym Bag,890,340,1,5,Bank Transfer,Completed
+ORD-0379,2025-02-09,CUST-0150,South Moravia,Organic Search,Fitness,Gym Bag,934,340,1,0,Card,Completed
+ORD-0380,2025-08-18,CUST-0045,Prague,Direct,Fitness,Yoga Mat,618,240,1,0,Bank Transfer,Completed
+ORD-0381,2025-02-28,CUST-0235,Central Bohemia,Email,Home,Desk Lamp,940,390,1,10,Cash on Delivery,Completed
+ORD-0382,2025-06-29,CUST-0204,South Moravia,Direct,Fitness,Resistance Bands,472,140,1,0,Card,Returned
+ORD-0383,2025-02-27,CUST-0220,South Moravia,Paid Search,Home,Water Bottle,490,170,2,15,Bank Transfer,Completed
+ORD-0384,2025-04-05,CUST-0201,Moravia-Silesia,Paid Search,Fitness,Yoga Mat,650,240,1,5,Card,Completed
+ORD-0385,2025-01-20,CUST-0220,Moravia-Silesia,Direct,Electronics,USB-C Hub,890,420,3,15,Cash on Delivery,Completed
+ORD-0386,2025-12-19,CUST-0213,Pilsen,Social Media,Accessories,Wireless Mouse,690,280,1,0,Bank Transfer,Cancelled
+ORD-0387,2025-05-18,CUST-0266,South Moravia,Email,Fitness,Dumbbell Set,2090,1100,2,15,Bank Transfer,Completed
+ORD-0388,2025-10-15,CUST-0259,South Moravia,Paid Search,Accessories,Laptop Stand,830,310,2,5,Card,Completed
+ORD-0389,2025-02-20,CUST-0131,South Moravia,Direct,Electronics,USB-C Hub,890,420,2,5,Card,Returned
+ORD-0390,2025-07-11,CUST-0220,Moravia-Silesia,Direct,Home,Desk Lamp,940,390,1,0,Card,Completed
+ORD-0391,2025-12-22,CUST-0107,Prague,Social Media,Fitness,Dumbbell Set,2090,1100,1,5,Bank Transfer,Completed
+ORD-0392,2025-07-04,CUST-0192,South Moravia,Organic Search,Fitness,Resistance Bands,428,140,2,5,Cash on Delivery,Completed
+ORD-0393,2025-07-11,CUST-0045,South Moravia,Paid Search,Fitness,Gym Bag,934,340,1,0,Bank Transfer,Completed
+ORD-0394,2025-11-07,CUST-0109,Prague,Paid Search,Electronics,Wireless Headphones,1890,1020,1,10,Bank Transfer,Completed
+ORD-0395,2025-07-02,CUST-0241,Other CZ,Social Media,Fitness,Resistance Bands,450,140,1,5,Bank Transfer,Completed
+ORD-0396,2025-01-08,CUST-0095,Prague,Direct,Electronics,Smartwatch,3490,2150,4,10,Cash on Delivery,Completed
+ORD-0397,2025-06-08,CUST-0044,South Moravia,Email,Fitness,Gym Bag,890,340,3,20,Bank Transfer,Completed
+ORD-0398,2025-11-19,CUST-0158,Prague,Organic Search,Accessories,Keyboard,1290,610,1,10,Cash on Delivery,Completed
+ORD-0399,2025-08-30,CUST-0105,Other CZ,Organic Search,Fitness,Yoga Mat,650,240,3,0,Card,Completed
+ORD-0400,2025-09-21,CUST-0209,Prague,Social Media,Fitness,Yoga Mat,650,240,1,0,Bank Transfer,Completed
+ORD-0401,2025-02-21,CUST-0111,Moravia-Silesia,Direct,Accessories,Laptop Stand,790,310,1,0,Bank Transfer,Completed
+ORD-0402,2025-10-31,CUST-0131,Central Bohemia,Social Media,Electronics,Wireless Headphones,1984,1020,1,0,Card,Completed
+ORD-0403,2025-03-24,CUST-0206,Moravia-Silesia,Organic Search,Home,Storage Box,390,140,2,0,Card,Completed
+ORD-0404,2025-01-18,CUST-0258,South Moravia,Organic Search,Home,Storage Box,390,140,2,15,Cash on Delivery,Completed
+ORD-0405,2025-12-22,CUST-0221,Central Bohemia,Paid Search,Fitness,Yoga Mat,682,240,4,5,Bank Transfer,Returned
+ORD-0406,2025-03-23,CUST-0304,Moravia-Silesia,Organic Search,Fitness,Resistance Bands,450,140,1,10,Bank Transfer,Completed
+ORD-0407,2025-12-17,CUST-0092,Prague,Organic Search,Electronics,Bluetooth Speaker,1226,690,1,0,Bank Transfer,Completed
+ORD-0408,2025-09-07,CUST-0074,Central Bohemia,Direct,Home,Storage Box,390,140,1,0,Bank Transfer,Completed
+ORD-0409,2025-11-06,CUST-0004,Prague,Direct,Accessories,Laptop Stand,790,310,1,0,Card,Completed
+ORD-0410,2025-04-25,CUST-0114,Central Bohemia,Email,Electronics,Wireless Headphones,1890,1020,5,0,Cash on Delivery,Completed
+ORD-0411,2025-05-30,CUST-0136,Prague,Social Media,Accessories,Wireless Mouse,724,280,1,5,Cash on Delivery,Completed
+ORD-0412,2025-04-18,CUST-0246,South Moravia,Direct,Fitness,Dumbbell Set,1990,1100,2,5,Bank Transfer,Completed
+ORD-0413,2025-12-31,CUST-0223,Moravia-Silesia,Social Media,Home,Storage Box,390,140,1,15,Card,Completed
+ORD-0414,2025-03-05,CUST-0121,Central Bohemia,Direct,Home,Water Bottle,490,170,2,5,Card,Completed
+ORD-0415,2025-10-10,CUST-0308,Prague,Email,Accessories,Keyboard,1354,610,2,10,Cash on Delivery,Completed
+ORD-0416,2025-02-18,CUST-0159,South Moravia,Email,Electronics,USB-C Hub,934,420,3,5,Cash on Delivery,Completed
+ORD-0417,2025-08-09,CUST-0150,Prague,Email,Home,Coffee Maker,2366,1360,2,0,Bank Transfer,Returned
+ORD-0418,2025-10-09,CUST-0194,Central Bohemia,Social Media,Accessories,Wireless Mouse,656,280,2,0,Bank Transfer,Completed
+ORD-0419,2025-02-03,CUST-0270,Moravia-Silesia,Organic Search,Home,Coffee Maker,2614,1360,1,0,Cash on Delivery,Completed
+ORD-0420,2025-04-16,CUST-0231,Prague,Direct,Fitness,Yoga Mat,650,240,2,15,Card,Completed
+ORD-0421,2025-11-21,CUST-0148,Moravia-Silesia,Paid Search,Home,Coffee Maker,2490,1360,2,0,Cash on Delivery,Completed
+ORD-0422,2025-10-28,CUST-0220,Moravia-Silesia,Direct,Electronics,Bluetooth Speaker,1290,690,1,5,Card,Completed
+ORD-0423,2025-11-22,CUST-0199,Prague,Social Media,Home,Coffee Maker,2490,1360,2,0,Bank Transfer,Completed
+ORD-0424,2025-12-17,CUST-0075,Prague,Social Media,Accessories,Wireless Mouse,656,280,1,0,Card,Completed
+ORD-0425,2025-11-30,CUST-0289,Other CZ,Social Media,Electronics,Bluetooth Speaker,1290,690,1,5,Cash on Delivery,Completed
+ORD-0426,2025-01-22,CUST-0298,Prague,Paid Search,Electronics,Smartwatch,3490,2150,3,0,Card,Completed
+ORD-0427,2025-01-27,CUST-0115,Prague,Paid Search,Accessories,Wireless Mouse,724,280,1,0,Card,Completed
+ORD-0428,2025-03-29,CUST-0011,Prague,Direct,Home,Storage Box,370,140,3,0,Card,Completed
+ORD-0429,2025-02-07,CUST-0269,Prague,Social Media,Electronics,Bluetooth Speaker,1290,690,4,0,Bank Transfer,Completed
+ORD-0430,2025-05-09,CUST-0127,Central Bohemia,Direct,Electronics,Smartwatch,3316,2150,5,0,Cash on Delivery,Completed
+ORD-0431,2025-03-01,CUST-0316,Prague,Paid Search,Accessories,Wireless Mouse,690,280,1,5,Cash on Delivery,Completed
+ORD-0432,2025-05-19,CUST-0100,Prague,Organic Search,Accessories,Keyboard,1354,610,2,5,Card,Completed
+ORD-0433,2025-03-13,CUST-0224,Pilsen,Organic Search,Fitness,Yoga Mat,682,240,4,0,Cash on Delivery,Completed
+ORD-0434,2025-06-17,CUST-0143,Pilsen,Direct,Home,Storage Box,390,140,3,0,Bank Transfer,Completed
+ORD-0435,2025-06-10,CUST-0118,Prague,Direct,Home,Storage Box,370,140,3,0,Card,Completed
+ORD-0436,2025-07-14,CUST-0283,Prague,Paid Search,Fitness,Yoga Mat,650,240,1,10,Bank Transfer,Cancelled
+ORD-0437,2025-02-19,CUST-0151,South Moravia,Social Media,Fitness,Yoga Mat,650,240,1,0,Card,Completed
+ORD-0438,2025-02-08,CUST-0154,Other CZ,Organic Search,Accessories,Laptop Stand,790,310,1,0,Bank Transfer,Completed
+ORD-0439,2025-05-10,CUST-0101,Central Bohemia,Organic Search,Accessories,Phone Case,350,110,2,5,Bank Transfer,Completed
+ORD-0440,2025-07-01,CUST-0259,Moravia-Silesia,Organic Search,Accessories,Wireless Mouse,690,280,1,5,Card,Completed
+ORD-0441,2025-09-19,CUST-0079,Prague,Direct,Fitness,Gym Bag,890,340,2,0,Cash on Delivery,Cancelled
+ORD-0442,2025-04-29,CUST-0269,Prague,Paid Search,Home,Water Bottle,514,170,2,15,Cash on Delivery,Completed
+ORD-0443,2025-09-05,CUST-0053,Prague,Social Media,Electronics,Wireless Headphones,1984,1020,3,0,Cash on Delivery,Completed
+ORD-0444,2025-04-08,CUST-0226,Central Bohemia,Organic Search,Electronics,Bluetooth Speaker,1290,690,1,0,Card,Completed
+ORD-0445,2025-01-26,CUST-0184,Pilsen,Paid Search,Home,Water Bottle,490,170,2,5,Card,Completed
+ORD-0446,2025-06-16,CUST-0242,Prague,Paid Search,Home,Water Bottle,490,170,2,15,Cash on Delivery,Completed
+ORD-0447,2025-06-03,CUST-0216,Pilsen,Social Media,Fitness,Gym Bag,890,340,1,0,Bank Transfer,Completed
+ORD-0448,2025-10-25,CUST-0100,Prague,Paid Search,Accessories,Laptop Stand,790,310,1,0,Cash on Delivery,Completed
+ORD-0449,2025-12-15,CUST-0023,Central Bohemia,Social Media,Electronics,Smartwatch,3664,2150,1,0,Bank Transfer,Completed
+ORD-0450,2025-11-27,CUST-0317,Central Bohemia,Organic Search,Electronics,Bluetooth Speaker,1290,690,1,0,Card,Completed
+ORD-0451,2025-04-10,CUST-0316,Prague,Organic Search,Fitness,Yoga Mat,650,240,1,5,Bank Transfer,Completed
+ORD-0452,2025-03-11,CUST-0238,Other CZ,Organic Search,Accessories,Wireless Mouse,690,280,2,5,Cash on Delivery,Completed
+ORD-0453,2025-04-29,CUST-0213,Moravia-Silesia,Direct,Home,Storage Box,390,140,1,0,Bank Transfer,Completed
+ORD-0454,2025-07-17,CUST-0236,Central Bohemia,Paid Search,Accessories,Phone Case,332,110,2,0,Bank Transfer,Cancelled
+ORD-0455,2025-03-22,CUST-0186,South Moravia,Email,Home,Storage Box,410,140,1,0,Bank Transfer,Completed
+ORD-0456,2025-11-27,CUST-0057,South Moravia,Organic Search,Home,Water Bottle,466,170,1,0,Bank Transfer,Completed
+ORD-0457,2025-06-09,CUST-0161,South Moravia,Organic Search,Accessories,Keyboard,1290,610,2,0,Bank Transfer,Completed
+ORD-0458,2025-07-15,CUST-0154,Central Bohemia,Email,Electronics,Bluetooth Speaker,1290,690,2,0,Bank Transfer,Completed
+ORD-0459,2025-12-06,CUST-0085,Central Bohemia,Social Media,Home,Water Bottle,490,170,1,0,Card,Completed
+ORD-0460,2025-02-02,CUST-0309,Pilsen,Paid Search,Electronics,USB-C Hub,846,420,2,10,Cash on Delivery,Completed
+ORD-0461,2025-11-24,CUST-0238,South Moravia,Paid Search,Home,Desk Lamp,990,390,3,0,Cash on Delivery,Completed
+ORD-0462,2025-04-08,CUST-0124,South Moravia,Paid Search,Fitness,Resistance Bands,450,140,1,0,Cash on Delivery,Returned
+ORD-0463,2025-06-07,CUST-0129,Moravia-Silesia,Social Media,Accessories,Keyboard,1290,610,1,5,Bank Transfer,Completed
+ORD-0464,2025-04-30,CUST-0277,Prague,Email,Accessories,Laptop Stand,790,310,3,15,Bank Transfer,Completed
+ORD-0465,2025-07-10,CUST-0090,Central Bohemia,Direct,Home,Water Bottle,466,170,1,5,Cash on Delivery,Completed
+ORD-0466,2025-08-08,CUST-0285,South Moravia,Organic Search,Fitness,Yoga Mat,618,240,1,0,Cash on Delivery,Returned
+ORD-0467,2025-02-01,CUST-0013,Central Bohemia,Paid Search,Accessories,Phone Case,368,110,1,5,Bank Transfer,Completed
+ORD-0468,2025-04-01,CUST-0019,Other CZ,Paid Search,Electronics,USB-C Hub,890,420,1,0,Card,Completed
+ORD-0469,2025-03-27,CUST-0235,Central Bohemia,Social Media,Electronics,USB-C Hub,890,420,1,10,Bank Transfer,Completed
+ORD-0470,2025-07-17,CUST-0311,Central Bohemia,Organic Search,Fitness,Dumbbell Set,1990,1100,3,15,Card,Completed
+ORD-0471,2025-07-01,CUST-0006,Prague,Email,Home,Water Bottle,490,170,5,0,Cash on Delivery,Completed
+ORD-0472,2025-05-20,CUST-0096,Prague,Social Media,Home,Desk Lamp,990,390,1,10,Card,Completed
+ORD-0473,2025-11-23,CUST-0240,Pilsen,Organic Search,Fitness,Resistance Bands,450,140,4,0,Bank Transfer,Completed
+ORD-0474,2025-08-20,CUST-0049,Central Bohemia,Organic Search,Accessories,Laptop Stand,830,310,1,0,Card,Completed
+ORD-0475,2025-05-12,CUST-0028,Moravia-Silesia,Email,Electronics,Smartwatch,3490,2150,2,10,Cash on Delivery,Completed
+ORD-0476,2025-03-10,CUST-0135,Moravia-Silesia,Paid Search,Fitness,Gym Bag,890,340,3,0,Bank Transfer,Completed
+ORD-0477,2025-06-29,CUST-0294,Central Bohemia,Social Media,Accessories,Wireless Mouse,690,280,1,0,Bank Transfer,Completed
+ORD-0478,2025-04-08,CUST-0159,Prague,Organic Search,Electronics,Bluetooth Speaker,1290,690,3,0,Bank Transfer,Cancelled
+ORD-0479,2025-06-23,CUST-0040,South Moravia,Email,Home,Water Bottle,490,170,1,0,Card,Completed
+ORD-0480,2025-05-19,CUST-0013,Prague,Organic Search,Fitness,Gym Bag,890,340,1,10,Bank Transfer,Completed
+ORD-0481,2025-04-16,CUST-0165,Other CZ,Organic Search,Electronics,Wireless Headphones,1796,1020,2,0,Cash on Delivery,Completed
+ORD-0482,2025-02-25,CUST-0289,South Moravia,Paid Search,Fitness,Resistance Bands,472,140,2,0,Bank Transfer,Completed
+ORD-0483,2025-06-07,CUST-0154,Prague,Paid Search,Home,Desk Lamp,990,390,1,15,Card,Completed
+ORD-0484,2025-04-18,CUST-0313,Other CZ,Organic Search,Home,Coffee Maker,2490,1360,1,10,Bank Transfer,Completed
+ORD-0485,2025-06-25,CUST-0211,Pilsen,Social Media,Home,Desk Lamp,940,390,1,10,Cash on Delivery,Completed
+ORD-0486,2025-01-23,CUST-0007,Other CZ,Social Media,Home,Desk Lamp,990,390,3,15,Bank Transfer,Returned
+ORD-0487,2025-09-16,CUST-0246,Prague,Organic Search,Accessories,Laptop Stand,750,310,2,5,Card,Completed
+ORD-0488,2025-03-02,CUST-0030,Prague,Organic Search,Fitness,Resistance Bands,428,140,2,10,Bank Transfer,Cancelled
+ORD-0489,2025-11-23,CUST-0075,South Moravia,Social Media,Accessories,Laptop Stand,830,310,1,0,Bank Transfer,Completed
+ORD-0490,2025-05-29,CUST-0253,South Moravia,Direct,Electronics,Smartwatch,3490,2150,1,5,Cash on Delivery,Completed
+ORD-0491,2025-12-30,CUST-0250,Pilsen,Organic Search,Home,Storage Box,390,140,3,0,Cash on Delivery,Completed
+ORD-0492,2025-09-01,CUST-0292,Prague,Direct,Home,Desk Lamp,990,390,1,0,Bank Transfer,Completed
+ORD-0493,2025-07-06,CUST-0041,Prague,Paid Search,Home,Water Bottle,490,170,2,0,Cash on Delivery,Completed
+ORD-0494,2025-04-22,CUST-0128,Prague,Social Media,Home,Water Bottle,466,170,1,0,Bank Transfer,Completed
+ORD-0495,2025-01-26,CUST-0267,Prague,Paid Search,Fitness,Dumbbell Set,1990,1100,2,0,Bank Transfer,Completed
+ORD-0496,2025-12-18,CUST-0274,Other CZ,Organic Search,Fitness,Gym Bag,890,340,1,0,Card,Completed
+ORD-0497,2025-04-19,CUST-0083,South Moravia,Organic Search,Electronics,USB-C Hub,890,420,1,0,Card,Completed
+ORD-0498,2025-12-17,CUST-0072,South Moravia,Social Media,Accessories,Laptop Stand,830,310,2,0,Card,Completed
+ORD-0499,2025-07-25,CUST-0278,Central Bohemia,Paid Search,Accessories,Keyboard,1354,610,1,0,Card,Completed
+ORD-0500,2025-01-04,CUST-0257,South Moravia,Organic Search,Electronics,Wireless Headphones,1890,1020,5,0,Cash on Delivery,Completed
+ORD-0501,2025-12-23,CUST-0263,Pilsen,Organic Search,Accessories,Keyboard,1290,610,2,10,Cash on Delivery,Returned
+ORD-0502,2025-12-09,CUST-0181,Other CZ,Direct,Fitness,Resistance Bands,472,140,3,0,Cash on Delivery,Completed
+ORD-0503,2025-03-25,CUST-0106,South Moravia,Paid Search,Electronics,Bluetooth Speaker,1290,690,4,10,Cash on Delivery,Returned
+ORD-0504,2025-04-20,CUST-0215,South Moravia,Direct,Electronics,Wireless Headphones,1890,1020,4,5,Card,Completed
+ORD-0505,2025-01-07,CUST-0130,Pilsen,Social Media,Accessories,Wireless Mouse,690,280,1,5,Card,Completed
+ORD-0506,2025-12-05,CUST-0164,South Moravia,Organic Search,Accessories,Keyboard,1290,610,3,0,Bank Transfer,Completed
+ORD-0507,2025-08-06,CUST-0224,Prague,Email,Fitness,Gym Bag,890,340,1,20,Card,Completed
+ORD-0508,2025-01-03,CUST-0304,Central Bohemia,Email,Fitness,Dumbbell Set,1990,1100,1,5,Bank Transfer,Completed
+ORD-0509,2025-03-12,CUST-0115,Moravia-Silesia,Organic Search,Home,Water Bottle,490,170,2,0,Bank Transfer,Cancelled
+ORD-0510,2025-06-26,CUST-0095,Prague,Paid Search,Fitness,Gym Bag,890,340,2,0,Cash on Delivery,Completed
+ORD-0511,2025-01-22,CUST-0027,Central Bohemia,Social Media,Home,Desk Lamp,1040,390,2,0,Card,Completed
+ORD-0512,2025-12-25,CUST-0226,Moravia-Silesia,Social Media,Home,Desk Lamp,990,390,1,0,Bank Transfer,Completed
+ORD-0513,2025-10-16,CUST-0017,Moravia-Silesia,Paid Search,Electronics,USB-C Hub,890,420,1,10,Bank Transfer,Completed
+ORD-0514,2025-02-21,CUST-0016,Central Bohemia,Email,Accessories,Keyboard,1354,610,1,0,Bank Transfer,Completed
+ORD-0515,2025-11-11,CUST-0301,South Moravia,Direct,Electronics,Smartwatch,3490,2150,1,20,Card,Completed
+ORD-0516,2025-10-15,CUST-0267,South Moravia,Email,Home,Storage Box,410,140,1,0,Bank Transfer,Completed
+ORD-0517,2025-09-12,CUST-0029,Prague,Email,Accessories,Wireless Mouse,690,280,2,10,Card,Completed
+ORD-0518,2025-12-13,CUST-0316,South Moravia,Organic Search,Fitness,Gym Bag,934,340,2,0,Card,Completed
+ORD-0519,2025-08-16,CUST-0318,Moravia-Silesia,Paid Search,Home,Coffee Maker,2614,1360,1,0,Cash on Delivery,Completed
+ORD-0520,2025-07-20,CUST-0238,Central Bohemia,Direct,Electronics,Bluetooth Speaker,1290,690,1,15,Bank Transfer,Cancelled
+ORD-0521,2025-08-25,CUST-0236,South Moravia,Paid Search,Home,Storage Box,390,140,1,5,Bank Transfer,Completed
+ORD-0522,2025-06-13,CUST-0312,Central Bohemia,Social Media,Fitness,Resistance Bands,450,140,1,0,Bank Transfer,Completed
+ORD-0523,2025-03-06,CUST-0240,Moravia-Silesia,Social Media,Accessories,Wireless Mouse,690,280,1,15,Cash on Delivery,Completed
+ORD-0524,2025-08-22,CUST-0251,Central Bohemia,Organic Search,Home,Water Bottle,490,170,1,10,Bank Transfer,Completed
+ORD-0525,2025-10-22,CUST-0108,Central Bohemia,Email,Electronics,Bluetooth Speaker,1226,690,2,5,Card,Completed
+ORD-0526,2025-11-30,CUST-0049,Prague,Organic Search,Accessories,Wireless Mouse,690,280,2,0,Cash on Delivery,Completed
+ORD-0527,2025-09-28,CUST-0202,South Moravia,Paid Search,Accessories,Keyboard,1290,610,1,0,Bank Transfer,Returned
+ORD-0528,2025-06-17,CUST-0006,Central Bohemia,Paid Search,Accessories,Phone Case,332,110,1,10,Cash on Delivery,Completed
+ORD-0529,2025-06-04,CUST-0289,Pilsen,Social Media,Accessories,Laptop Stand,790,310,2,0,Cash on Delivery,Completed
+ORD-0530,2025-10-13,CUST-0116,Prague,Social Media,Accessories,Phone Case,332,110,1,0,Bank Transfer,Completed
+ORD-0531,2025-10-12,CUST-0129,Central Bohemia,Paid Search,Fitness,Dumbbell Set,1990,1100,5,0,Cash on Delivery,Cancelled
+ORD-0532,2025-02-17,CUST-0128,Moravia-Silesia,Paid Search,Fitness,Resistance Bands,450,140,1,10,Card,Completed
+ORD-0533,2025-11-03,CUST-0183,South Moravia,Email,Electronics,Wireless Headphones,1890,1020,4,20,Bank Transfer,Completed
+ORD-0534,2025-05-24,CUST-0173,Prague,Organic Search,Fitness,Gym Bag,934,340,2,5,Bank Transfer,Cancelled
+ORD-0535,2025-09-04,CUST-0236,South Moravia,Direct,Home,Coffee Maker,2490,1360,1,10,Cash on Delivery,Completed
+ORD-0536,2025-09-04,CUST-0133,Pilsen,Paid Search,Fitness,Dumbbell Set,1990,1100,1,5,Bank Transfer,Completed
+ORD-0537,2025-03-30,CUST-0112,Pilsen,Paid Search,Electronics,Wireless Headphones,1890,1020,3,20,Card,Cancelled
+ORD-0538,2025-01-08,CUST-0043,Central Bohemia,Organic Search,Electronics,Smartwatch,3490,2150,1,5,Card,Completed
+ORD-0539,2025-01-08,CUST-0189,Central Bohemia,Direct,Accessories,Laptop Stand,750,310,1,0,Card,Cancelled
+ORD-0540,2025-02-21,CUST-0134,Central Bohemia,Organic Search,Accessories,Phone Case,368,110,1,10,Cash on Delivery,Completed
+ORD-0541,2025-02-08,CUST-0034,Prague,Paid Search,Home,Water Bottle,490,170,1,15,Bank Transfer,Completed
+ORD-0542,2025-08-18,CUST-0114,Prague,Paid Search,Accessories,Phone Case,350,110,4,5,Card,Completed
+ORD-0543,2025-07-26,CUST-0168,Other CZ,Direct,Accessories,Laptop Stand,790,310,2,15,Card,Completed
+ORD-0544,2025-01-27,CUST-0050,Other CZ,Paid Search,Fitness,Yoga Mat,650,240,1,0,Card,Completed
+ORD-0545,2025-11-08,CUST-0180,Central Bohemia,Social Media,Electronics,Smartwatch,3664,2150,2,5,Cash on Delivery,Completed
+ORD-0546,2025-12-12,CUST-0305,South Moravia,Paid Search,Electronics,USB-C Hub,846,420,1,20,Card,Completed
+ORD-0547,2025-12-19,CUST-0262,South Moravia,Paid Search,Accessories,Wireless Mouse,690,280,2,5,Cash on Delivery,Completed
+ORD-0548,2025-03-27,CUST-0050,Central Bohemia,Organic Search,Accessories,Phone Case,350,110,1,0,Card,Completed
+ORD-0549,2025-11-08,CUST-0071,Prague,Social Media,Home,Coffee Maker,2366,1360,2,0,Cash on Delivery,Completed
+ORD-0550,2025-05-24,CUST-0008,Central Bohemia,Social Media,Home,Coffee Maker,2614,1360,2,0,Card,Completed
+ORD-0551,2025-06-30,CUST-0153,Other CZ,Paid Search,Fitness,Resistance Bands,428,140,3,20,Cash on Delivery,Completed
+ORD-0552,2025-02-03,CUST-0120,Prague,Email,Home,Storage Box,370,140,1,5,Bank Transfer,Cancelled
+ORD-0553,2025-02-08,CUST-0250,Prague,Direct,Fitness,Dumbbell Set,1990,1100,1,0,Cash on Delivery,Completed
+ORD-0554,2025-10-02,CUST-0204,Other CZ,Organic Search,Electronics,Smartwatch,3490,2150,2,20,Cash on Delivery,Completed
+ORD-0555,2025-11-23,CUST-0073,Central Bohemia,Direct,Fitness,Resistance Bands,450,140,3,0,Bank Transfer,Completed
+ORD-0556,2025-02-13,CUST-0165,Prague,Paid Search,Fitness,Gym Bag,934,340,2,5,Cash on Delivery,Completed
+ORD-0557,2025-12-13,CUST-0147,Central Bohemia,Organic Search,Accessories,Phone Case,368,110,1,20,Card,Returned
+ORD-0558,2025-04-24,CUST-0143,Pilsen,Organic Search,Home,Desk Lamp,990,390,1,0,Bank Transfer,Returned
+ORD-0559,2025-08-27,CUST-0191,South Moravia,Organic Search,Fitness,Yoga Mat,650,240,1,0,Cash on Delivery,Completed
+ORD-0560,2025-03-19,CUST-0039,Other CZ,Email,Home,Desk Lamp,940,390,1,0,Bank Transfer,Completed
+ORD-0561,2025-04-11,CUST-0300,Moravia-Silesia,Direct,Home,Desk Lamp,1040,390,2,0,Bank Transfer,Cancelled
+ORD-0562,2025-04-21,CUST-0143,Prague,Social Media,Home,Coffee Maker,2614,1360,4,0,Card,Completed
+ORD-0563,2025-07-01,CUST-0278,South Moravia,Social Media,Electronics,Wireless Headphones,1796,1020,1,0,Cash on Delivery,Completed
+ORD-0564,2025-08-29,CUST-0021,South Moravia,Direct,Home,Desk Lamp,940,390,1,10,Bank Transfer,Completed
+ORD-0565,2025-01-06,CUST-0230,South Moravia,Direct,Accessories,Laptop Stand,790,310,3,0,Bank Transfer,Completed
+ORD-0566,2025-12-24,CUST-0038,Pilsen,Social Media,Electronics,Bluetooth Speaker,1290,690,1,15,Bank Transfer,Completed
+ORD-0567,2025-03-29,CUST-0103,Pilsen,Organic Search,Accessories,Phone Case,350,110,2,0,Card,Completed
+ORD-0568,2025-12-13,CUST-0036,Prague,Organic Search,Accessories,Laptop Stand,790,310,1,0,Cash on Delivery,Completed
+ORD-0569,2025-02-02,CUST-0032,Central Bohemia,Paid Search,Fitness,Yoga Mat,650,240,1,0,Bank Transfer,Completed
+ORD-0570,2025-11-14,CUST-0312,Prague,Paid Search,Electronics,Bluetooth Speaker,1290,690,1,5,Card,Completed
+ORD-0571,2025-11-08,CUST-0316,Prague,Social Media,Home,Water Bottle,490,170,1,20,Card,Completed
+ORD-0572,2025-10-03,CUST-0197,Central Bohemia,Organic Search,Electronics,Smartwatch,3490,2150,1,0,Bank Transfer,Completed
+ORD-0573,2025-12-24,CUST-0127,Prague,Email,Fitness,Dumbbell Set,1990,1100,1,5,Bank Transfer,Completed
+ORD-0574,2025-10-09,CUST-0038,Other CZ,Email,Electronics,Wireless Headphones,1890,1020,1,0,Card,Completed
+ORD-0575,2025-10-13,CUST-0181,Central Bohemia,Email,Electronics,Smartwatch,3490,2150,2,10,Cash on Delivery,Returned
+ORD-0576,2025-10-09,CUST-0047,South Moravia,Social Media,Accessories,Wireless Mouse,690,280,1,0,Cash on Delivery,Completed
+ORD-0577,2025-10-12,CUST-0059,Prague,Organic Search,Fitness,Dumbbell Set,1990,1100,1,5,Cash on Delivery,Completed
+ORD-0578,2025-11-28,CUST-0144,Other CZ,Direct,Accessories,Keyboard,1290,610,1,10,Bank Transfer,Completed
+ORD-0579,2025-06-23,CUST-0067,South Moravia,Paid Search,Accessories,Laptop Stand,750,310,1,0,Cash on Delivery,Completed
+ORD-0580,2025-03-07,CUST-0163,Other CZ,Paid Search,Home,Water Bottle,490,170,1,0,Card,Completed
+ORD-0581,2025-09-12,CUST-0157,Prague,Paid Search,Accessories,Laptop Stand,830,310,2,15,Card,Cancelled
+ORD-0582,2025-06-02,CUST-0068,Pilsen,Social Media,Electronics,Smartwatch,3664,2150,4,0,Bank Transfer,Completed
+ORD-0583,2025-07-31,CUST-0045,Central Bohemia,Paid Search,Fitness,Resistance Bands,450,140,1,0,Cash on Delivery,Cancelled
+ORD-0584,2025-12-10,CUST-0301,Prague,Paid Search,Accessories,Keyboard,1290,610,2,5,Cash on Delivery,Completed
+ORD-0585,2025-09-06,CUST-0147,Other CZ,Organic Search,Accessories,Wireless Mouse,690,280,1,0,Card,Completed
+ORD-0586,2025-07-06,CUST-0179,South Moravia,Direct,Electronics,Bluetooth Speaker,1226,690,1,0,Cash on Delivery,Completed
+ORD-0587,2025-04-11,CUST-0264,Moravia-Silesia,Organic Search,Fitness,Yoga Mat,682,240,1,10,Bank Transfer,Completed
+ORD-0588,2025-06-02,CUST-0257,Central Bohemia,Paid Search,Fitness,Dumbbell Set,1990,1100,1,10,Card,Completed
+ORD-0589,2025-03-31,CUST-0207,Prague,Paid Search,Fitness,Gym Bag,890,340,2,15,Bank Transfer,Completed
+ORD-0590,2025-07-05,CUST-0133,Pilsen,Organic Search,Accessories,Laptop Stand,790,310,1,0,Cash on Delivery,Completed
+ORD-0591,2025-12-18,CUST-0124,Prague,Email,Home,Storage Box,410,140,1,0,Bank Transfer,Completed
+ORD-0592,2025-03-03,CUST-0259,Pilsen,Organic Search,Fitness,Dumbbell Set,1990,1100,1,0,Card,Completed
+ORD-0593,2025-07-11,CUST-0079,Prague,Direct,Electronics,USB-C Hub,890,420,1,0,Cash on Delivery,Completed
+ORD-0594,2025-11-26,CUST-0047,Pilsen,Paid Search,Home,Water Bottle,490,170,1,10,Cash on Delivery,Completed
+ORD-0595,2025-11-24,CUST-0155,Central Bohemia,Direct,Accessories,Wireless Mouse,656,280,3,20,Bank Transfer,Completed
+ORD-0596,2025-05-03,CUST-0109,Central Bohemia,Social Media,Home,Desk Lamp,990,390,1,5,Cash on Delivery,Completed
+ORD-0597,2025-10-04,CUST-0036,South Moravia,Social Media,Electronics,Wireless Headphones,1796,1020,2,5,Cash on Delivery,Completed
+ORD-0598,2025-10-25,CUST-0282,Pilsen,Social Media,Home,Water Bottle,514,170,1,10,Card,Returned
+ORD-0599,2025-01-04,CUST-0010,Pilsen,Direct,Accessories,Phone Case,350,110,1,0,Cash on Delivery,Completed
+ORD-0600,2025-08-07,CUST-0309,Central Bohemia,Paid Search,Electronics,USB-C Hub,846,420,2,0,Bank Transfer,Returned
+ORD-0601,2025-05-13,CUST-0297,South Moravia,Paid Search,Accessories,Phone Case,332,110,1,0,Card,Completed
+ORD-0602,2025-01-04,CUST-0259,Prague,Organic Search,Home,Water Bottle,514,170,2,0,Cash on Delivery,Returned
+ORD-0603,2025-07-18,CUST-0132,Prague,Organic Search,Accessories,Wireless Mouse,724,280,1,0,Bank Transfer,Completed
+ORD-0604,2025-11-09,CUST-0165,Pilsen,Paid Search,Home,Storage Box,410,140,2,0,Card,Returned
+ORD-0605,2025-03-18,CUST-0315,Central Bohemia,Email,Home,Water Bottle,490,170,1,10,Bank Transfer,Completed
+ORD-0606,2025-05-11,CUST-0011,Central Bohemia,Direct,Electronics,Wireless Headphones,1890,1020,4,20,Card,Cancelled
+ORD-0607,2025-04-09,CUST-0237,South Moravia,Paid Search,Home,Desk Lamp,1040,390,1,10,Cash on Delivery,Completed
+ORD-0608,2025-08-25,CUST-0191,Prague,Organic Search,Home,Coffee Maker,2490,1360,1,10,Bank Transfer,Completed
+ORD-0609,2025-03-02,CUST-0279,South Moravia,Paid Search,Home,Storage Box,390,140,1,0,Card,Completed
+ORD-0610,2025-12-26,CUST-0248,Prague,Organic Search,Electronics,Bluetooth Speaker,1290,690,4,0,Cash on Delivery,Completed
+ORD-0611,2025-12-26,CUST-0018,Prague,Direct,Fitness,Resistance Bands,450,140,3,10,Bank Transfer,Completed
+ORD-0612,2025-06-19,CUST-0182,Other CZ,Organic Search,Fitness,Gym Bag,846,340,1,10,Bank Transfer,Completed
+ORD-0613,2025-12-17,CUST-0312,Moravia-Silesia,Direct,Home,Storage Box,390,140,1,0,Cash on Delivery,Completed
+ORD-0614,2025-12-08,CUST-0111,South Moravia,Paid Search,Home,Desk Lamp,1040,390,3,15,Cash on Delivery,Completed
+ORD-0615,2025-02-23,CUST-0172,Prague,Direct,Accessories,Keyboard,1290,610,1,5,Card,Cancelled
+ORD-0616,2025-03-23,CUST-0141,Prague,Social Media,Home,Coffee Maker,2366,1360,2,5,Card,Completed
+ORD-0617,2025-03-24,CUST-0273,Prague,Paid Search,Electronics,USB-C Hub,890,420,2,5,Bank Transfer,Returned
+ORD-0618,2025-05-02,CUST-0214,Other CZ,Paid Search,Fitness,Dumbbell Set,1990,1100,1,0,Cash on Delivery,Completed
+ORD-0619,2025-10-26,CUST-0161,Pilsen,Direct,Home,Desk Lamp,990,390,2,15,Card,Completed
+ORD-0620,2025-03-05,CUST-0025,South Moravia,Email,Accessories,Keyboard,1290,610,1,0,Bank Transfer,Completed
+ORD-0621,2025-11-23,CUST-0299,South Moravia,Paid Search,Home,Storage Box,390,140,5,20,Bank Transfer,Completed
+ORD-0622,2025-12-08,CUST-0266,Prague,Email,Home,Coffee Maker,2614,1360,1,0,Bank Transfer,Completed
+ORD-0623,2025-02-25,CUST-0229,Moravia-Silesia,Organic Search,Electronics,Smartwatch,3490,2150,4,5,Cash on Delivery,Completed
+ORD-0624,2025-02-09,CUST-0250,Prague,Organic Search,Fitness,Dumbbell Set,2090,1100,3,5,Bank Transfer,Completed
+ORD-0625,2025-11-05,CUST-0173,Prague,Organic Search,Home,Desk Lamp,990,390,2,20,Card,Completed
+ORD-0626,2025-09-22,CUST-0316,Prague,Direct,Accessories,Phone Case,368,110,1,0,Cash on Delivery,Completed
+ORD-0627,2025-03-20,CUST-0111,Pilsen,Organic Search,Accessories,Keyboard,1354,610,4,5,Card,Completed
+ORD-0628,2025-06-25,CUST-0141,Central Bohemia,Email,Fitness,Yoga Mat,650,240,2,5,Card,Cancelled
+ORD-0629,2025-07-06,CUST-0223,Pilsen,Paid Search,Fitness,Yoga Mat,650,240,1,0,Card,Completed
+ORD-0630,2025-10-23,CUST-0042,Central Bohemia,Social Media,Fitness,Dumbbell Set,1990,1100,2,5,Card,Completed
+ORD-0631,2025-02-25,CUST-0101,Pilsen,Direct,Home,Storage Box,390,140,1,10,Bank Transfer,Cancelled
+ORD-0632,2025-05-07,CUST-0297,South Moravia,Organic Search,Fitness,Gym Bag,934,340,1,0,Card,Completed
+ORD-0633,2025-05-05,CUST-0190,Prague,Email,Fitness,Yoga Mat,650,240,1,0,Cash on Delivery,Completed
+ORD-0634,2025-01-07,CUST-0005,South Moravia,Paid Search,Home,Desk Lamp,940,390,1,0,Bank Transfer,Completed
+ORD-0635,2025-08-06,CUST-0061,South Moravia,Organic Search,Fitness,Gym Bag,890,340,3,0,Card,Completed
+ORD-0636,2025-10-13,CUST-0092,Prague,Organic Search,Electronics,Smartwatch,3316,2150,3,0,Card,Completed
+ORD-0637,2025-12-22,CUST-0099,South Moravia,Organic Search,Accessories,Wireless Mouse,690,280,1,10,Bank Transfer,Completed
+ORD-0638,2025-04-01,CUST-0282,Central Bohemia,Paid Search,Fitness,Dumbbell Set,1990,1100,3,10,Card,Completed
+ORD-0639,2025-07-23,CUST-0313,Moravia-Silesia,Organic Search,Fitness,Yoga Mat,650,240,3,0,Bank Transfer,Completed
+ORD-0640,2025-09-23,CUST-0253,Pilsen,Organic Search,Fitness,Resistance Bands,428,140,2,0,Card,Completed
+ORD-0641,2025-09-23,CUST-0271,Moravia-Silesia,Organic Search,Electronics,USB-C Hub,934,420,1,0,Bank Transfer,Completed
+ORD-0642,2025-05-19,CUST-0239,Moravia-Silesia,Paid Search,Electronics,USB-C Hub,890,420,1,10,Bank Transfer,Completed
+ORD-0643,2025-05-07,CUST-0294,Prague,Email,Accessories,Laptop Stand,790,310,1,0,Cash on Delivery,Completed
+ORD-0644,2025-02-24,CUST-0184,Prague,Paid Search,Home,Desk Lamp,990,390,4,10,Bank Transfer,Completed
+ORD-0645,2025-01-31,CUST-0075,Pilsen,Social Media,Electronics,Bluetooth Speaker,1226,690,2,10,Card,Completed
+ORD-0646,2025-08-15,CUST-0249,South Moravia,Paid Search,Fitness,Gym Bag,890,340,1,5,Card,Completed
+ORD-0647,2025-08-15,CUST-0174,Central Bohemia,Paid Search,Fitness,Gym Bag,890,340,5,5,Bank Transfer,Completed
+ORD-0648,2025-04-28,CUST-0012,Central Bohemia,Email,Fitness,Gym Bag,934,340,2,0,Card,Completed
+ORD-0649,2025-11-11,CUST-0162,Pilsen,Direct,Fitness,Yoga Mat,650,240,1,5,Card,Completed
+ORD-0650,2025-01-21,CUST-0144,Prague,Organic Search,Electronics,Smartwatch,3316,2150,1,10,Cash on Delivery,Completed
+ORD-0651,2025-12-11,CUST-0127,South Moravia,Paid Search,Accessories,Laptop Stand,790,310,1,0,Card,Completed
+ORD-0652,2025-05-30,CUST-0314,Central Bohemia,Organic Search,Fitness,Resistance Bands,450,140,1,15,Bank Transfer,Completed
+ORD-0653,2025-07-23,CUST-0294,Prague,Organic Search,Accessories,Laptop Stand,750,310,1,10,Bank Transfer,Completed
+ORD-0654,2025-07-21,CUST-0268,South Moravia,Paid Search,Fitness,Dumbbell Set,1990,1100,1,5,Bank Transfer,Completed
+ORD-0655,2025-11-11,CUST-0223,South Moravia,Paid Search,Fitness,Dumbbell Set,2090,1100,1,5,Card,Cancelled
+ORD-0656,2025-04-06,CUST-0105,Pilsen,Organic Search,Electronics,Bluetooth Speaker,1354,690,5,0,Bank Transfer,Completed
+ORD-0657,2025-04-03,CUST-0159,Central Bohemia,Organic Search,Electronics,USB-C Hub,890,420,3,0,Bank Transfer,Completed
+ORD-0658,2025-01-07,CUST-0274,Pilsen,Direct,Fitness,Dumbbell Set,1990,1100,2,0,Card,Completed
+ORD-0659,2025-05-03,CUST-0062,Prague,Email,Home,Storage Box,390,140,2,15,Bank Transfer,Completed
+ORD-0660,2025-04-21,CUST-0094,Moravia-Silesia,Paid Search,Accessories,Keyboard,1226,610,2,0,Card,Completed
+ORD-0661,2025-01-29,CUST-0037,Prague,Paid Search,Fitness,Resistance Bands,450,140,2,0,Bank Transfer,Cancelled
+ORD-0662,2025-08-05,CUST-0307,Prague,Social Media,Home,Desk Lamp,1040,390,1,5,Cash on Delivery,Completed
+ORD-0663,2025-06-25,CUST-0048,Central Bohemia,Paid Search,Fitness,Gym Bag,890,340,2,0,Bank Transfer,Completed
+ORD-0664,2025-06-18,CUST-0293,Prague,Direct,Fitness,Resistance Bands,450,140,1,0,Bank Transfer,Completed
+ORD-0665,2025-11-17,CUST-0279,Pilsen,Paid Search,Electronics,USB-C Hub,890,420,4,5,Card,Completed
+ORD-0666,2025-11-17,CUST-0316,South Moravia,Social Media,Accessories,Laptop Stand,790,310,1,0,Cash on Delivery,Completed
+ORD-0667,2025-02-21,CUST-0269,Central Bohemia,Organic Search,Electronics,USB-C Hub,846,420,2,0,Bank Transfer,Completed
+ORD-0668,2025-02-26,CUST-0192,Prague,Email,Accessories,Phone Case,350,110,1,5,Cash on Delivery,Completed
+ORD-0669,2025-09-03,CUST-0162,Prague,Organic Search,Accessories,Keyboard,1290,610,1,0,Card,Completed
+ORD-0670,2025-05-06,CUST-0232,Prague,Paid Search,Electronics,Bluetooth Speaker,1226,690,2,5,Cash on Delivery,Completed
+ORD-0671,2025-09-09,CUST-0059,Central Bohemia,Social Media,Accessories,Keyboard,1290,610,1,5,Cash on Delivery,Completed
+ORD-0672,2025-09-08,CUST-0174,Other CZ,Email,Fitness,Yoga Mat,618,240,1,5,Card,Completed
+ORD-0673,2025-12-20,CUST-0046,Central Bohemia,Organic Search,Fitness,Yoga Mat,618,240,3,15,Cash on Delivery,Completed
+ORD-0674,2025-05-08,CUST-0307,Prague,Organic Search,Electronics,Smartwatch,3490,2150,4,0,Bank Transfer,Completed
+ORD-0675,2025-08-30,CUST-0179,Other CZ,Email,Home,Coffee Maker,2490,1360,1,0,Card,Completed
+ORD-0676,2025-07-03,CUST-0235,Central Bohemia,Organic Search,Fitness,Resistance Bands,450,140,1,0,Cash on Delivery,Completed
+ORD-0677,2025-07-25,CUST-0320,South Moravia,Direct,Electronics,Wireless Headphones,1890,1020,2,15,Bank Transfer,Completed
+ORD-0678,2025-09-12,CUST-0031,Prague,Social Media,Home,Water Bottle,466,170,1,10,Card,Completed
+ORD-0679,2025-08-12,CUST-0145,Other CZ,Email,Home,Water Bottle,490,170,1,0,Cash on Delivery,Cancelled
+ORD-0680,2025-03-25,CUST-0057,Central Bohemia,Organic Search,Electronics,Wireless Headphones,1890,1020,1,10,Bank Transfer,Completed
+ORD-0681,2025-03-21,CUST-0309,Prague,Social Media,Fitness,Gym Bag,890,340,1,0,Card,Completed
+ORD-0682,2025-08-31,CUST-0255,Prague,Organic Search,Accessories,Wireless Mouse,690,280,2,5,Card,Completed
+ORD-0683,2025-06-08,CUST-0221,Pilsen,Direct,Fitness,Resistance Bands,450,140,2,0,Card,Completed
+ORD-0684,2025-08-20,CUST-0120,Other CZ,Direct,Home,Coffee Maker,2366,1360,2,20,Card,Cancelled
+ORD-0685,2025-01-18,CUST-0215,South Moravia,Direct,Fitness,Yoga Mat,650,240,3,0,Cash on Delivery,Completed
+ORD-0686,2025-11-11,CUST-0191,Other CZ,Direct,Electronics,USB-C Hub,890,420,2,0,Card,Completed
+ORD-0687,2025-05-13,CUST-0105,Central Bohemia,Direct,Electronics,Wireless Headphones,1984,1020,1,15,Bank Transfer,Cancelled
+ORD-0688,2025-06-04,CUST-0094,Pilsen,Email,Home,Storage Box,390,140,1,10,Bank Transfer,Completed
+ORD-0689,2025-02-27,CUST-0194,South Moravia,Social Media,Home,Water Bottle,490,170,1,10,Cash on Delivery,Cancelled
+ORD-0690,2025-12-29,CUST-0200,Central Bohemia,Email,Accessories,Phone Case,350,110,1,10,Card,Completed
+ORD-0691,2025-01-21,CUST-0161,Moravia-Silesia,Paid Search,Electronics,Smartwatch,3664,2150,2,20,Cash on Delivery,Completed
+ORD-0692,2025-10-28,CUST-0212,South Moravia,Email,Fitness,Yoga Mat,650,240,2,10,Cash on Delivery,Completed
+ORD-0693,2025-03-22,CUST-0091,Central Bohemia,Social Media,Accessories,Laptop Stand,790,310,2,10,Cash on Delivery,Completed
+ORD-0694,2025-12-23,CUST-0100,South Moravia,Paid Search,Electronics,USB-C Hub,846,420,1,15,Bank Transfer,Completed
+ORD-0695,2025-11-28,CUST-0218,South Moravia,Direct,Fitness,Gym Bag,846,340,2,0,Cash on Delivery,Completed
+ORD-0696,2025-06-17,CUST-0245,Central Bohemia,Paid Search,Fitness,Yoga Mat,650,240,1,0,Card,Completed
+ORD-0697,2025-01-04,CUST-0088,Prague,Paid Search,Home,Desk Lamp,990,390,1,5,Cash on Delivery,Completed
+ORD-0698,2025-02-11,CUST-0282,Prague,Social Media,Home,Storage Box,390,140,3,0,Card,Completed
+ORD-0699,2025-07-29,CUST-0118,Pilsen,Paid Search,Electronics,Bluetooth Speaker,1290,690,4,0,Bank Transfer,Completed
+ORD-0700,2025-08-19,CUST-0027,Moravia-Silesia,Organic Search,Electronics,USB-C Hub,890,420,1,5,Cash on Delivery,Completed
+ORD-0701,2025-05-12,CUST-0100,South Moravia,Direct,Electronics,Wireless Headphones,1890,1020,1,15,Cash on Delivery,Completed
+ORD-0702,2025-01-05,CUST-0168,Prague,Social Media,Home,Desk Lamp,990,390,1,10,Bank Transfer,Completed
+ORD-0703,2025-12-23,CUST-0306,Pilsen,Email,Fitness,Dumbbell Set,1990,1100,4,0,Cash on Delivery,Completed
+ORD-0704,2025-03-29,CUST-0161,Prague,Paid Search,Accessories,Keyboard,1290,610,3,0,Bank Transfer,Completed
+ORD-0705,2025-04-14,CUST-0137,Prague,Paid Search,Home,Water Bottle,490,170,1,0,Cash on Delivery,Completed
+ORD-0706,2025-07-22,CUST-0013,Pilsen,Social Media,Fitness,Yoga Mat,650,240,1,0,Bank Transfer,Completed
+ORD-0707,2025-03-14,CUST-0112,Prague,Organic Search,Home,Storage Box,390,140,2,15,Cash on Delivery,Completed
+ORD-0708,2025-10-15,CUST-0032,South Moravia,Direct,Home,Desk Lamp,990,390,1,0,Cash on Delivery,Completed
+ORD-0709,2025-10-22,CUST-0271,Prague,Organic Search,Home,Desk Lamp,1040,390,2,10,Cash on Delivery,Completed
+ORD-0710,2025-08-19,CUST-0061,Central Bohemia,Organic Search,Home,Water Bottle,514,170,2,10,Bank Transfer,Completed
+ORD-0711,2025-09-08,CUST-0170,Moravia-Silesia,Social Media,Accessories,Wireless Mouse,724,280,1,0,Bank Transfer,Completed
+ORD-0712,2025-05-26,CUST-0271,Prague,Organic Search,Accessories,Laptop Stand,790,310,1,0,Cash on Delivery,Completed
+ORD-0713,2025-02-18,CUST-0141,South Moravia,Paid Search,Electronics,Wireless Headphones,1984,1020,5,0,Bank Transfer,Completed
+ORD-0714,2025-07-19,CUST-0013,Other CZ,Social Media,Fitness,Yoga Mat,650,240,1,15,Card,Completed
+ORD-0715,2025-09-20,CUST-0146,Central Bohemia,Paid Search,Home,Coffee Maker,2490,1360,1,5,Card,Cancelled
+ORD-0716,2025-11-25,CUST-0188,Pilsen,Direct,Electronics,USB-C Hub,890,420,1,0,Cash on Delivery,Completed
+ORD-0717,2025-06-06,CUST-0123,South Moravia,Direct,Fitness,Yoga Mat,650,240,2,10,Cash on Delivery,Completed
+ORD-0718,2025-10-25,CUST-0044,South Moravia,Email,Home,Water Bottle,466,170,1,10,Cash on Delivery,Completed
+ORD-0719,2025-07-06,CUST-0178,Prague,Paid Search,Home,Storage Box,390,140,1,0,Bank Transfer,Completed
+ORD-0720,2025-02-04,CUST-0009,Prague,Organic Search,Accessories,Keyboard,1290,610,3,0,Bank Transfer,Completed
+ORD-0721,2025-06-11,CUST-0294,Pilsen,Organic Search,Electronics,Wireless Headphones,1890,1020,4,0,Cash on Delivery,Completed
+ORD-0722,2025-10-17,CUST-0296,Prague,Organic Search,Accessories,Wireless Mouse,690,280,1,0,Card,Completed
+ORD-0723,2025-04-14,CUST-0139,Other CZ,Organic Search,Electronics,Smartwatch,3490,2150,1,0,Cash on Delivery,Completed
+ORD-0724,2025-08-31,CUST-0232,Central Bohemia,Email,Electronics,USB-C Hub,890,420,2,0,Cash on Delivery,Returned
+ORD-0725,2025-03-23,CUST-0194,South Moravia,Social Media,Accessories,Phone Case,350,110,2,0,Cash on Delivery,Cancelled
+ORD-0726,2025-12-16,CUST-0026,Pilsen,Paid Search,Electronics,Wireless Headphones,1984,1020,4,10,Card,Completed
+ORD-0727,2025-04-16,CUST-0220,Moravia-Silesia,Organic Search,Home,Coffee Maker,2490,1360,2,0,Card,Completed
+ORD-0728,2025-04-19,CUST-0289,Pilsen,Organic Search,Home,Desk Lamp,990,390,2,0,Cash on Delivery,Completed
+ORD-0729,2025-09-22,CUST-0310,Other CZ,Direct,Electronics,Bluetooth Speaker,1354,690,1,15,Card,Completed
+ORD-0730,2025-06-27,CUST-0094,South Moravia,Paid Search,Fitness,Yoga Mat,650,240,1,0,Bank Transfer,Completed
+ORD-0731,2025-08-14,CUST-0091,Central Bohemia,Direct,Electronics,Smartwatch,3490,2150,5,0,Cash on Delivery,Completed
+ORD-0732,2025-08-18,CUST-0313,Prague,Social Media,Fitness,Yoga Mat,618,240,1,15,Bank Transfer,Returned
+ORD-0733,2025-12-16,CUST-0071,Prague,Social Media,Accessories,Laptop Stand,790,310,1,0,Bank Transfer,Completed
+ORD-0734,2025-12-12,CUST-0017,Prague,Social Media,Accessories,Keyboard,1354,610,2,20,Card,Returned
+ORD-0735,2025-02-18,CUST-0038,Central Bohemia,Organic Search,Home,Desk Lamp,990,390,3,0,Bank Transfer,Returned
+ORD-0736,2025-08-13,CUST-0320,Prague,Paid Search,Fitness,Resistance Bands,450,140,1,0,Bank Transfer,Completed
+ORD-0737,2025-11-12,CUST-0137,Central Bohemia,Paid Search,Accessories,Phone Case,350,110,1,10,Card,Completed
+ORD-0738,2025-11-23,CUST-0173,South Moravia,Organic Search,Fitness,Dumbbell Set,1990,1100,1,15,Card,Completed
+ORD-0739,2025-12-26,CUST-0296,Prague,Organic Search,Electronics,Bluetooth Speaker,1290,690,1,0,Cash on Delivery,Completed
+ORD-0740,2025-12-25,CUST-0088,Prague,Paid Search,Accessories,Phone Case,350,110,1,15,Card,Completed
+ORD-0741,2025-02-01,CUST-0174,Central Bohemia,Direct,Accessories,Laptop Stand,750,310,1,15,Cash on Delivery,Completed
+ORD-0742,2025-05-14,CUST-0206,Pilsen,Paid Search,Electronics,Bluetooth Speaker,1290,690,1,20,Bank Transfer,Completed
+ORD-0743,2025-04-08,CUST-0093,Prague,Direct,Accessories,Keyboard,1290,610,1,5,Bank Transfer,Completed
+ORD-0744,2025-10-28,CUST-0069,Central Bohemia,Paid Search,Home,Water Bottle,490,170,1,5,Bank Transfer,Completed
+ORD-0745,2025-11-15,CUST-0159,Other CZ,Paid Search,Accessories,Phone Case,350,110,1,10,Cash on Delivery,Returned
+ORD-0746,2025-05-06,CUST-0052,Prague,Organic Search,Fitness,Yoga Mat,650,240,3,0,Card,Completed
+ORD-0747,2025-12-02,CUST-0295,Moravia-Silesia,Social Media,Electronics,Bluetooth Speaker,1226,690,2,0,Card,Completed
+ORD-0748,2025-11-15,CUST-0150,Moravia-Silesia,Email,Fitness,Resistance Bands,450,140,1,5,Bank Transfer,Completed
+ORD-0749,2025-11-15,CUST-0159,South Moravia,Email,Electronics,USB-C Hub,846,420,2,15,Bank Transfer,Completed
+ORD-0750,2025-09-16,CUST-0288,Prague,Organic Search,Home,Coffee Maker,2490,1360,2,0,Card,Completed
+ORD-0751,2025-01-02,CUST-0035,Other CZ,Organic Search,Accessories,Phone Case,350,110,1,5,Bank Transfer,Returned
+ORD-0752,2025-07-30,CUST-0246,Central Bohemia,Social Media,Home,Coffee Maker,2490,1360,1,0,Card,Completed
+ORD-0753,2025-07-02,CUST-0272,Prague,Paid Search,Fitness,Yoga Mat,650,240,1,0,Bank Transfer,Completed
+ORD-0754,2025-02-04,CUST-0117,Other CZ,Organic Search,Fitness,Yoga Mat,650,240,1,0,Cash on Delivery,Returned
+ORD-0755,2025-05-02,CUST-0278,Prague,Social Media,Home,Coffee Maker,2490,1360,1,5,Bank Transfer,Completed
+ORD-0756,2025-04-11,CUST-0220,Other CZ,Organic Search,Home,Desk Lamp,990,390,1,0,Bank Transfer,Completed
+ORD-0757,2025-06-25,CUST-0224,Pilsen,Organic Search,Fitness,Dumbbell Set,1990,1100,2,0,Card,Cancelled
+ORD-0758,2025-10-02,CUST-0004,Prague,Paid Search,Home,Storage Box,410,140,2,0,Bank Transfer,Returned
+ORD-0759,2025-11-03,CUST-0252,Central Bohemia,Direct,Fitness,Gym Bag,890,340,2,10,Cash on Delivery,Completed
+ORD-0760,2025-09-26,CUST-0201,Pilsen,Organic Search,Fitness,Dumbbell Set,1990,1100,2,0,Card,Completed
+ORD-0761,2025-06-07,CUST-0168,Other CZ,Email,Accessories,Wireless Mouse,690,280,5,10,Cash on Delivery,Completed
+ORD-0762,2025-01-29,CUST-0191,Prague,Social Media,Home,Storage Box,390,140,2,20,Cash on Delivery,Completed
+ORD-0763,2025-12-24,CUST-0075,South Moravia,Organic Search,Accessories,Laptop Stand,790,310,3,15,Bank Transfer,Completed
+ORD-0764,2025-05-13,CUST-0003,Prague,Paid Search,Home,Water Bottle,490,170,1,10,Cash on Delivery,Completed
+ORD-0765,2025-03-15,CUST-0016,South Moravia,Email,Accessories,Keyboard,1290,610,1,10,Card,Completed
+ORD-0766,2025-11-21,CUST-0314,Moravia-Silesia,Paid Search,Fitness,Yoga Mat,682,240,2,0,Card,Completed
+ORD-0767,2025-08-01,CUST-0121,South Moravia,Email,Accessories,Keyboard,1290,610,1,0,Card,Completed
+ORD-0768,2025-03-09,CUST-0122,Central Bohemia,Organic Search,Electronics,Wireless Headphones,1984,1020,3,0,Bank Transfer,Completed
+ORD-0769,2025-11-04,CUST-0318,Other CZ,Social Media,Accessories,Keyboard,1290,610,5,10,Bank Transfer,Completed
+ORD-0770,2025-11-04,CUST-0270,Prague,Paid Search,Home,Coffee Maker,2490,1360,3,0,Bank Transfer,Completed
+ORD-0771,2025-01-26,CUST-0247,Prague,Paid Search,Fitness,Gym Bag,890,340,3,10,Bank Transfer,Completed
+ORD-0772,2025-06-15,CUST-0087,Prague,Paid Search,Fitness,Resistance Bands,450,140,1,0,Card,Completed
+ORD-0773,2025-04-12,CUST-0061,Prague,Email,Accessories,Laptop Stand,790,310,2,0,Card,Completed
+ORD-0774,2025-09-13,CUST-0048,South Moravia,Organic Search,Accessories,Laptop Stand,790,310,2,15,Card,Completed
+ORD-0775,2025-11-01,CUST-0234,South Moravia,Direct,Accessories,Wireless Mouse,690,280,1,10,Bank Transfer,Completed
+ORD-0776,2025-11-02,CUST-0054,Moravia-Silesia,Direct,Accessories,Phone Case,350,110,4,0,Card,Completed
+ORD-0777,2025-06-16,CUST-0017,Moravia-Silesia,Organic Search,Fitness,Yoga Mat,650,240,1,15,Bank Transfer,Completed
+ORD-0778,2025-09-02,CUST-0090,South Moravia,Email,Home,Coffee Maker,2490,1360,1,0,Card,Completed
+ORD-0779,2025-02-27,CUST-0111,South Moravia,Direct,Fitness,Yoga Mat,618,240,3,0,Cash on Delivery,Completed
+ORD-0780,2025-10-14,CUST-0060,Prague,Organic Search,Electronics,USB-C Hub,890,420,1,0,Card,Completed
+ORD-0781,2025-07-12,CUST-0304,Prague,Organic Search,Home,Water Bottle,514,170,2,0,Bank Transfer,Completed
+ORD-0782,2025-09-06,CUST-0026,Central Bohemia,Organic Search,Fitness,Dumbbell Set,2090,1100,2,0,Card,Completed
+ORD-0783,2025-09-05,CUST-0213,Central Bohemia,Email,Electronics,Bluetooth Speaker,1290,690,1,0,Cash on Delivery,Completed
+ORD-0784,2025-12-26,CUST-0247,Prague,Social Media,Fitness,Gym Bag,890,340,1,0,Cash on Delivery,Completed
+ORD-0785,2025-03-22,CUST-0275,Prague,Email,Fitness,Yoga Mat,650,240,1,5,Cash on Delivery,Completed
+ORD-0786,2025-07-18,CUST-0288,Pilsen,Direct,Home,Desk Lamp,990,390,2,0,Cash on Delivery,Completed
+ORD-0787,2025-04-10,CUST-0176,South Moravia,Direct,Accessories,Wireless Mouse,724,280,1,0,Card,Completed
+ORD-0788,2025-10-24,CUST-0152,Central Bohemia,Direct,Electronics,USB-C Hub,846,420,5,0,Card,Completed
+ORD-0789,2025-11-26,CUST-0091,Prague,Paid Search,Home,Coffee Maker,2490,1360,1,15,Bank Transfer,Completed
+ORD-0790,2025-10-27,CUST-0212,Other CZ,Paid Search,Fitness,Gym Bag,890,340,3,15,Card,Completed
+ORD-0791,2025-08-24,CUST-0302,South Moravia,Email,Fitness,Yoga Mat,618,240,1,0,Cash on Delivery,Completed
+ORD-0792,2025-10-14,CUST-0215,South Moravia,Paid Search,Accessories,Phone Case,332,110,1,0,Card,Completed
+ORD-0793,2025-12-24,CUST-0039,Pilsen,Paid Search,Accessories,Laptop Stand,750,310,1,5,Cash on Delivery,Completed
+ORD-0794,2025-01-03,CUST-0220,Prague,Organic Search,Electronics,USB-C Hub,846,420,1,0,Bank Transfer,Completed
+ORD-0795,2025-08-07,CUST-0105,Prague,Organic Search,Home,Storage Box,390,140,5,10,Cash on Delivery,Cancelled
+ORD-0796,2025-05-19,CUST-0171,Central Bohemia,Social Media,Fitness,Gym Bag,890,340,1,0,Cash on Delivery,Completed
+ORD-0797,2025-04-21,CUST-0107,Prague,Direct,Fitness,Dumbbell Set,1890,1100,1,10,Bank Transfer,Completed
+ORD-0798,2025-04-13,CUST-0091,Moravia-Silesia,Organic Search,Home,Storage Box,390,140,2,0,Card,Completed
+ORD-0799,2025-08-26,CUST-0294,Prague,Email,Accessories,Laptop Stand,830,310,1,0,Card,Completed
+ORD-0800,2025-09-07,CUST-0030,Central Bohemia,Email,Electronics,Bluetooth Speaker,1226,690,1,5,Card,Completed
